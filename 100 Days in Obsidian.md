@@ -16,6 +16,6 @@ dates:: 2023-01-15
 ## Day2
 
 - Daily note: [[2023-01-16]]
-- Create `Calendar` folder to save daily notes
+- Create `Calendar` folder to contain daily notes
 - [The LYT Kit - Lesson 3](https://www.linkingyourthinking.com/lyt-kit-course/lesson-3-why-use-maps-of-content)
 
