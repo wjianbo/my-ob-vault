@@ -5,3 +5,5 @@ dates:: {{date}}
 	- 
 	- 
 - Log
+- Work
+- Todos

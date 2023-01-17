@@ -22,4 +22,5 @@ dates:: 2023-01-15
 
 ## Day 3
 
+- Daily note: [[2023-01-17]]
 - Use `remote save` plugin
