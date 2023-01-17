@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aea244d3d576eabf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2023-01-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3bf6ea78f848532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Days in Obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/2023-01-16.md",
+                "file": "100 Days in Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/2023-01-16.md",
+                "file": "100 Days in Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/2023-01-16.md"
+                "file": "100 Days in Obsidian.md"
               }
             }
           }
@@ -145,15 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d068390ef50ea121",
+  "active": "a3bf6ea78f848532",
   "lastOpenFiles": [
+    "Calendar/2023-01-17.md",
     "books/Ichiro Kishimi - The Courage to be Happy (ja).md",
     "Calendar/2023-01-16.md",
+    "Extras/Templates/daily note.md",
+    "Calendar/2023-02-05.md",
+    "Calendar/2023-01-28.md",
     "100 Days in Obsidian.md",
+    "Calendar/Untitled.md",
     "README.md",
-    "books/岸見一郎.md",
-    "岸見一郎.md",
-    "[岸見一郎.md",
-    "().md"
+    "books/岸見一郎.md"
   ]
 }
