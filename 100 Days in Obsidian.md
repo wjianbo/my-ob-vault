@@ -13,9 +13,13 @@ dates:: 2023-01-15
 - Add a book I am reading: [[Ichiro Kishimi - The Courage to be Happy (ja)]]
 - Add a tag: #book
 
-## Day2
+## Day 2
 
 - Daily note: [[2023-01-16]]
 - Create `Calendar` folder to contain daily notes
 - [The LYT Kit - Lesson 3](https://www.linkingyourthinking.com/lyt-kit-course/lesson-3-why-use-maps-of-content)
+- Add [[daily note]] template
 
+## Day 3
+
+- Use `remote save` plugin
