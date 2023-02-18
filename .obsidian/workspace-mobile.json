@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "7068e2068ba445c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef70d8ea98d459f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50dd976ba4c4e753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tech notes/Obsidian Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93ee3a661319cb5d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aa18f03cae5f85f4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ad614fd14c81d9ef",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d7671bb8879a83ac",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9cb9d72f779d364e",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1eec526e598d6bf8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "10cbf4f9fa9cf40f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "tech notes/Obsidian Notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1b2c0e3e4adbcf8a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "tech notes/Obsidian Notes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "23e542c69a4caeef",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "tech notes/Obsidian Notes.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "50dd976ba4c4e753",
+  "lastOpenFiles": [
+    "tech notes/Linux Notes.md"
+  ]
+}
