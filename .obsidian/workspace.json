@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Output/Blog/content/cn/issues/vim.nvim.config.md",
+                "file": "Extras/Templates/daily note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Output/Blog/content/cn/issues/vim.nvim.config.md",
+                "file": "Extras/Templates/daily note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Output/Blog/content/cn/issues/vim.nvim.config.md",
+                "file": "Extras/Templates/daily note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Output/Blog/content/cn/issues/vim.nvim.config.md"
+                "file": "Extras/Templates/daily note.md"
               }
             }
           },
@@ -154,17 +154,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "32635863e19d1a65",
+  "active": "4689c9501b2f7a13",
   "lastOpenFiles": [
-    "Output/Blog/content/cn/issues/伊坂幸太郎『マイクロスパイ・アンサンブル』.md",
-    "Output/Blog/content/cn/issues/vim.nvim.config.md",
-    "Output/Blog/content/cn/issues/20190223.md",
-    "Output/Blog/content/cn/issues/20150518-running-thoughts.md",
-    "Output/Blog/content/cn/issues/202110-1.md",
-    "Output/Blog/content/cn/issues/4_周记3-1.md",
-    "Output/Blog/content/cn/issues/10_梦.md",
-    "Output/Blog/content/cn/issues/2023-01-w03.md",
-    "Output/Blog/content/cn/issues/202004.md",
-    "Output/Blog/content/cn/issues/20220303.md"
+    "Blog/cn/issues/vim.nvim.config.md",
+    "Blog/cn/issues/伊坂幸太郎『マイクロスパイ・アンサンブル』.md",
+    "Blog/cn/issues/20190223.md",
+    "Blog/cn/issues/20150518-running-thoughts.md",
+    "Blog/cn/issues/202110-1.md",
+    "Blog/cn/issues/4_周记3-1.md",
+    "Blog/cn/issues/10_梦.md",
+    "Blog/cn/issues/2023-01-w03.md",
+    "Blog/cn/issues/202004.md",
+    "Blog/cn/issues/20220303.md"
   ]
 }
