@@ -17,7 +17,7 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
-        source_folder: 'Output/Blog/content'
+        source_folder: 'Blog'
         destination_repo: 'wjianbo/blog-data'
         destination_branch: 'main'
         destination_folder: 'content'
