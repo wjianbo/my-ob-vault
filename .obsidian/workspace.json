@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "3e4207fe9649df5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "22807a9168e933d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32635863e19d1a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Output/Blog/content/cn/issues/vim.nvim.config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7878fe5512c98efa",
+    "type": "split",
+    "children": [
+      {
+        "id": "aee8c04d901ff700",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4689c9501b2f7a13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a049ddd46566c8f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#book",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf7efe1c9c3a4eb4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "715e2fd0ea4d56e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1a92f0bc143aa00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f8becc478dbb8c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Output/Blog/content/cn/issues/vim.nvim.config.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37cd2200f666d288",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Output/Blog/content/cn/issues/vim.nvim.config.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4506130dd7eee1a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfd5ca697ac40c6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Output/Blog/content/cn/issues/vim.nvim.config.md"
+              }
+            }
+          },
+          {
+            "id": "ada18f98307fab69",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "32635863e19d1a65",
+  "lastOpenFiles": [
+    "Output/Blog/content/cn/issues/伊坂幸太郎『マイクロスパイ・アンサンブル』.md",
+    "Output/Blog/content/cn/issues/vim.nvim.config.md",
+    "Output/Blog/content/cn/issues/20190223.md",
+    "Output/Blog/content/cn/issues/20150518-running-thoughts.md",
+    "Output/Blog/content/cn/issues/202110-1.md",
+    "Output/Blog/content/cn/issues/4_周记3-1.md",
+    "Output/Blog/content/cn/issues/10_梦.md",
+    "Output/Blog/content/cn/issues/2023-01-w03.md",
+    "Output/Blog/content/cn/issues/202004.md",
+    "Output/Blog/content/cn/issues/20220303.md"
+  ]
+}
