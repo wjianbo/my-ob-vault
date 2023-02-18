@@ -19,6 +19,7 @@ jobs:
       with:
         source_folder: 'Output/Blog/content'
         destination_repo: 'wjianbo/blog-data'
+        destination_branch: 'main'
         destination_folder: 'content'
         user_email: 'jnb.wang@gmail.com'
         user_name: 'jianbo'
