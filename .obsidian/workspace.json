@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cb00a7c4aeb1dc00",
+        "id": "3c9854ceb5bc26aa",
         "type": "tabs",
         "children": [
           {
-            "id": "d068390ef50ea121",
+            "id": "4fa0bad01ea5693a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/2023-01-16.md",
+                "file": "Calendar/2023-01-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aea244d3d576eabf",
+            "id": "47be56b03e2e2709",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/2023-01-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3bf6ea78f848532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 Days in Obsidian.md",
+                "file": "Calendar/2023-01-19.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days in Obsidian.md",
+                "file": "Calendar/2023-01-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days in Obsidian.md",
+                "file": "Calendar/2023-01-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +138,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days in Obsidian.md"
+                "file": "Calendar/2023-01-19.md"
               }
             }
+          },
+          {
+            "id": "ada18f98307fab69",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -167,20 +164,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "a3bf6ea78f848532",
+  "active": "ada18f98307fab69",
   "lastOpenFiles": [
-    "Calendar/2023-01-17.md",
-    "books/Ichiro Kishimi - The Courage to be Happy (ja).md",
-    "Calendar/2023-01-16.md",
-    "Extras/Templates/daily note.md",
-    "Calendar/2023-02-05.md",
-    "Calendar/2023-01-28.md",
+    "Calendar/2023-01-18.md",
+    "weekly notes/2023-01-w03.md",
     "100 Days in Obsidian.md",
-    "Calendar/Untitled.md",
-    "README.md",
-    "books/岸見一郎.md"
+    "tech notes/Obsidian Notes.md",
+    "tech notes/Git notes.md",
+    "Calendar/2023-02-05.md",
+    "books/Ichiro Kishimi - The Courage to be Happy (ja).md",
+    "Extras/Templates/daily note.md",
+    "Calendar/2023-01-28.md",
+    "Calendar/2023-01-17.md"
   ]
 }

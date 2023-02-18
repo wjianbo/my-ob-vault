@@ -23,4 +23,12 @@ dates:: 2023-01-15
 ## Day 3
 
 - Daily note: [[2023-01-17]]
-- Use `remote save` plugin
+- Use `remotely save` plugin
+- Add one tech note: [[Git notes]]
+- [The LYT Kit - Lesson 4](https://www.linkingyourthinking.com/lyt-kit-course/lesson-4-why-create-a-home-note)
+
+## Day 4
+
+- Daily note: [[2023-01-18]]
+- Make another vault for my blog content 
+- Install [Calendar](obsidian://show-plugin?id=calendar) plugin
