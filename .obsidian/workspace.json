@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Blog/cn/issues/正念工作法1-0.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#finance/jpy/expense/food",
+                "query": "tag:#什么是正念？",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Blog/cn/issues/正念工作法1-0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Blog/cn/issues/正念工作法1-0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Blog/cn/issues/正念工作法1-0.md"
               }
             }
           },
@@ -155,17 +156,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "13911b54b91e1eae",
+  "active": "a049ddd46566c8f1",
   "lastOpenFiles": [
+    "Inbox/Use obsidian to manage blog contents.md",
     "Home.md",
+    "Planning.md",
+    "README.md",
     "tools/obsidian.md",
     "tech/Rust.md",
-    "Planning.md",
     "weekly notes/2023-02-w06.md",
     "weekly notes/2023-02-w07.md",
-    "README.md",
     "+ Encounters/100 Days in Obsidian.md",
-    "MOC/Daily Notes.md",
-    "Calendar/2023-02-23.md"
+    "MOC/Daily Notes.md"
   ]
 }
