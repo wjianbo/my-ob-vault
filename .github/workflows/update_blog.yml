@@ -3,7 +3,7 @@ name: Push File
 on:
   push:
     paths:
-      - 'Output/Blog/**'
+      - 'Blog/**'
 
 jobs:
   copy-file:
@@ -23,4 +23,4 @@ jobs:
         destination_folder: 'content'
         user_email: 'jnb.wang@gmail.com'
         user_name: 'jianbo'
-        commit_msg: '[GHA] Update the blog contents.'
+        commit_msg: '[GHA] Update blog contents.'
