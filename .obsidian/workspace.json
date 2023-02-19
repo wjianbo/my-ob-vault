@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "22807a9168e933d9",
+        "id": "07186da761318cd9",
         "type": "tabs",
         "children": [
           {
-            "id": "32635863e19d1a65",
+            "id": "13911b54b91e1eae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extras/Templates/daily note.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#book",
+                "query": "tag:#finance/jpy/expense/food",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extras/Templates/daily note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extras/Templates/daily note.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extras/Templates/daily note.md"
+                "file": "README.md"
               }
             }
           },
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,17 +155,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4689c9501b2f7a13",
+  "active": "13911b54b91e1eae",
   "lastOpenFiles": [
-    "Blog/cn/issues/vim.nvim.config.md",
-    "Blog/cn/issues/伊坂幸太郎『マイクロスパイ・アンサンブル』.md",
-    "Blog/cn/issues/20190223.md",
-    "Blog/cn/issues/20150518-running-thoughts.md",
-    "Blog/cn/issues/202110-1.md",
-    "Blog/cn/issues/4_周记3-1.md",
-    "Blog/cn/issues/10_梦.md",
-    "Blog/cn/issues/2023-01-w03.md",
-    "Blog/cn/issues/202004.md",
-    "Blog/cn/issues/20220303.md"
+    "Home.md",
+    "tools/obsidian.md",
+    "tech/Rust.md",
+    "Planning.md",
+    "weekly notes/2023-02-w06.md",
+    "weekly notes/2023-02-w07.md",
+    "README.md",
+    "+ Encounters/100 Days in Obsidian.md",
+    "MOC/Daily Notes.md",
+    "Calendar/2023-02-23.md"
   ]
 }

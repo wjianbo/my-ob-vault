@@ -1,5 +1,7 @@
 [
   "remotely-save",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "obsidian-auto-link-title"
 ]

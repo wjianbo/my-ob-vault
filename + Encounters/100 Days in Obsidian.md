@@ -32,3 +32,10 @@ dates:: 2023-01-15
 - Daily note: [[2023-01-18]]
 - Make another vault for my blog content 
 - Install [Calendar](obsidian://show-plugin?id=calendar) plugin
+
+## Day 5
+
+- Install plugins
+	- Dataview
+	- Auto Link Title
+- Use Dataview in [[Daily Notes]] page
