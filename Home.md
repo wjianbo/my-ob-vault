@@ -8,5 +8,4 @@ alias: ["000"]
 - [[Tech Notes]]
 - [[Reading Notes]]
 - [[Entertainment Notes]]
-- [[翻译]] 
 
