@@ -11,8 +11,12 @@
             "id": "50dd976ba4c4e753",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/关于习惯的养成.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "+ Encounters/关于习惯的养成.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "+ Encounters/关于习惯的养成.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "+ Encounters/关于习惯的养成.md"
+          }
         }
       }
     ],
@@ -115,15 +123,15 @@
   },
   "active": "50dd976ba4c4e753",
   "lastOpenFiles": [
-    "Blog/cn/issues/5_阅读.md",
-    "MOC/Reading Notes.md",
-    "year/2022.md",
-    "Blog/cn/translation/fukuzawa/5.md",
-    "tech/Java.md",
-    "Planning.md",
-    "100 Days in Obsidian.md",
-    "tech notes/Obsidian Notes.md",
-    "Calendar/2023-02-18.md",
-    "Calendar/2023-02-19.md"
+    "Calendar/2023-02-23.md",
+    "Blog/cn/jianshu/日记/睡到自然醒.md",
+    "+ Encounters/关于习惯的养成.md",
+    "Blog/cn/issues/2016-12-07 睡到自然醒.md",
+    "+ Encounters/Planning.md",
+    "+ Encounters/GGS Web Service.md",
+    "The Effective Engineer.md",
+    "Calendar/2023-02-22.md",
+    "+ Encounters/婚礼.md",
+    "Calendar/2023-02-21.md"
   ]
 }
