@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/关于习惯的养成.md",
+                "file": "+ Encounters/Blog Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/关于习惯的养成.md",
+            "file": "+ Encounters/Blog Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/关于习惯的养成.md",
+            "file": "+ Encounters/Blog Notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,24 +114,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/关于习惯的养成.md"
+            "file": "+ Encounters/Blog Notes.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "50dd976ba4c4e753",
+  "active": "aa18f03cae5f85f4",
   "lastOpenFiles": [
-    "Calendar/2023-02-23.md",
-    "Blog/cn/jianshu/日记/睡到自然醒.md",
-    "+ Encounters/关于习惯的养成.md",
-    "Blog/cn/issues/2016-12-07 睡到自然醒.md",
-    "+ Encounters/Planning.md",
-    "+ Encounters/GGS Web Service.md",
-    "The Effective Engineer.md",
-    "Calendar/2023-02-22.md",
-    "+ Encounters/婚礼.md",
-    "Calendar/2023-02-21.md"
+    "reading/奇趣故事集.md",
+    "+ Encounters/换驾照.md",
+    "+ Encounters/Driver's license.md",
+    "year/2023.md",
+    "Blog/cn/year/2022.md",
+    "year/2022.md",
+    "MOC/Reading Notes.md",
+    "cn/diary/20220129.md",
+    "Blog/cn/jianshu/2017-09-11.md",
+    "Blog/cn/jianshu/日记/重新思考写作的意义.md"
   ]
 }
