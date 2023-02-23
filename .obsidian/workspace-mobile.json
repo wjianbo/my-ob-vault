@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef70d8ea98d459f0",
+        "id": "da76d17b68fa236c",
         "type": "tabs",
         "children": [
           {
-            "id": "50dd976ba4c4e753",
+            "id": "32284d561bdab122",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/Blog Notes.md",
+                "file": "Blog/cn/issues/用 Obsidian 写博客.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "+ Encounters/Blog Notes.md",
+            "file": "Blog/cn/issues/用 Obsidian 写博客.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "+ Encounters/Blog Notes.md",
+            "file": "Blog/cn/issues/用 Obsidian 写博客.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,24 +114,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "+ Encounters/Blog Notes.md"
+            "file": "Blog/cn/issues/用 Obsidian 写博客.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "aa18f03cae5f85f4",
+  "active": "32284d561bdab122",
   "lastOpenFiles": [
-    "reading/奇趣故事集.md",
-    "+ Encounters/换驾照.md",
-    "+ Encounters/Driver's license.md",
-    "year/2023.md",
-    "Blog/cn/year/2022.md",
+    "+ Encounters/Blog Notes.md",
+    "Blog/cn/issues/用 Obsidian 写博客.md",
+    "+ Encounters/todo list.md",
+    "+ Encounters/SwiftUI.md",
     "year/2022.md",
     "MOC/Reading Notes.md",
-    "cn/diary/20220129.md",
-    "Blog/cn/jianshu/2017-09-11.md",
-    "Blog/cn/jianshu/日记/重新思考写作的意义.md"
+    "+ Encounters/关于习惯的养成.md",
+    "Calendar/2023-02-23.md",
+    "Blog/cn/issues/手机.md",
+    "+ Encounters/Driver's license.md"
   ]
 }
