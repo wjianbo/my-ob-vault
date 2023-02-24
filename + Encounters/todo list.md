@@ -1,10 +1,18 @@
+# To-do list
 
-
-## work 
+## Work
 
 - [ ] Video translation 
+- [ ] API implementation 
+- [ ] Ask for code review 
 
-## Reading 
+## Learn
+
+- Rust
+	- Rust 编程之道
+	- code reading - Nushell 
+
+## Read
 
 - [ ] 心灵、自我与社会
 - [ ] [[The Effective Engineer]]
