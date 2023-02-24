@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "882aafc32cbb9a1f",
+        "id": "4066356e2655aacd",
         "type": "tabs",
         "children": [
           {
-            "id": "31ba0ea06099071b",
+            "id": "2bad41798ee6c25d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/2023-02-19.md",
+                "file": "Blog/cn/issues/用 Obsidian 写博客.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/2023-02-19.md",
+                "file": "Blog/cn/issues/用 Obsidian 写博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/2023-02-19.md",
+                "file": "Blog/cn/issues/用 Obsidian 写博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/2023-02-19.md"
+                "file": "Blog/cn/issues/用 Obsidian 写博客.md"
               }
             }
           },
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,21 +150,36 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4689c9501b2f7a13",
+  "active": "2bad41798ee6c25d",
   "lastOpenFiles": [
-    "tools/obsidian.md",
-    "Notion backup/B&J e26e80bf374743f18972609adf6eb496/Tips 7238a9868e7d4f049d618057b6d586b1/Chrome Edge 开启多线程下载 – Telegraph 8a63330469ab49938335d506d99083b7.md",
-    "Notion backup/B&J e26e80bf374743f18972609adf6eb496/Tips 7238a9868e7d4f049d618057b6d586b1.md",
+    "Blog/cn/issues/用 GitHub Issues 写博客.md",
+    "Blog/cn/issues/用 Obsidian 写博客.md",
+    "Notion backup/B&J/面接対策/王K.md",
+    "reading/奇趣故事集.md",
+    "reading/The Effective Engineer.md",
+    "Extras/Templates/Blog meta template.md",
+    "Extras/Images/IMG_0217.png.md",
+    "Extras/Images",
+    "Calendar/2023-02-22.md",
+    "Calendar/2023-02-21.md",
+    "Blog/cn/issues/2016-12-07 睡到自然醒.md",
+    "+ Encounters/todo list.md",
+    "+ Encounters/SwiftUI.md",
+    "Notion backup/B&J/面接対策/王K (2023-1-6) 0220fed272a64d51895747b3d453e46f.md",
+    "Notion backup/B&J/面接対策 4599e2ab8d1e4943a1db1f896b9e3f42.md",
     "Notion backup/B&J e26e80bf374743f18972609adf6eb496.md",
-    "Notion backup/Know-how 6ef54c71dcfc4007ace52df41425315f/顶级知识管理工具Evernote的GTD应用详细指南 64969cdabbaf42a4adeaf6edbb989e26.md",
-    "Notion backup/B&J e26e80bf374743f18972609adf6eb496/日記 9a2b5bc3181c49af8b2215de2946d623/April 44b1c7629e5046f3bc63f2c7a2ebfa3d/四月二十六 826f090930ae40b2832a855ba1999704.md",
-    "Notion backup/B&J e26e80bf374743f18972609adf6eb496/日記 9a2b5bc3181c49af8b2215de2946d623/April 44b1c7629e5046f3bc63f2c7a2ebfa3d.md",
-    "Notion backup/B&J e26e80bf374743f18972609adf6eb496/日記 9a2b5bc3181c49af8b2215de2946d623.md",
-    "Notion backup/B&J e26e80bf374743f18972609adf6eb496/日本生活 3d198bddc75f434e890fe5659620b3fe/スマイル補助金 1966cbaf279f4a399401f5c2a66fdbaa.md",
-    "notion backup/Export-52b333db-eb81-42da-8234-6f4f7d13f0ed/B&J e26e80bf374743f18972609adf6eb496/日本生活 3d198bddc75f434e890fe5659620b3fe/找房 334f00fe5d364d84bbf9e1e6329daccb/Untitled c666630138c74b1785cfe7db39bb769e.md"
+    "Extras/Templates/Monthly Sumary Template.md",
+    "Calendar/2023-05-12.md",
+    "Notion backup/workflowy backup.md",
+    "Blog/cn/about/_index.md",
+    "+ Encounters/Balance.md",
+    "Notion backup/B&J/freeCodeCamp 7d560001b4214dc8a50c222afcfa5a14.md",
+    "Notion backup/B&J/翻译作为爱好 816d5b0011e94e028ff5f574668b3845.md",
+    "Notion backup/B&J/Python 135f5312af524637ab288b43152345b9/指摘 43edb219989144c49857497bb433ab32.md",
+    "Notion backup/B&J/Python 135f5312af524637ab288b43152345b9.md",
+    "Notion backup/B&J/日記 9a2b5bc3181c49af8b2215de2946d623/April 44b1c7629e5046f3bc63f2c7a2ebfa3d/四月三十 5384ad489f564ed5bb7cabac793e28fc.md"
   ]
 }
