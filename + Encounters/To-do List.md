@@ -1,15 +1,21 @@
-# To-do list
+top:: [[Home]]
 
-## Work
+## Current Priorities
+
+### DOING
 
 - [ ] Video translation 
 - [ ] API implementation 
 - [ ] Ask for code review 
 
+### TODAY
+
+### THIS WEEK
+
 ## Learn
 
-- Rust
-	- Rust 编程之道
+- [[Rust]]
+	- [[张汉东 - Rust 编程之道]]
 	- code reading - Nushell 
 
 ## Read

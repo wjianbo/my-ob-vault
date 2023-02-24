@@ -8,14 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bad41798ee6c25d",
+            "id": "647cd9e12b17dafc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1cef6f47fcff31e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "+ Encounters/To-do List.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -81,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "+ Encounters/To-do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "+ Encounters/To-do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "+ Encounters/To-do List.md"
+              }
             }
           },
           {
@@ -146,8 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bad41798ee6c25d",
+  "active": "1cef6f47fcff31e8",
   "lastOpenFiles": [
+    "Home.md",
+    "+ Encounters/To-do List.md",
+    "张汉东 - Rust 编程之道.md",
+    "Calendar/2023-02-24.md",
     "Blog/cn/issues/2023-01-w03.md",
     "Blog/cn/issues/用 Obsidian 写博客.md",
     "Blog/cn/issues/用 GitHub Issues 写博客.md",
@@ -160,7 +188,6 @@
     "Calendar/2023-02-22.md",
     "Calendar/2023-02-21.md",
     "Blog/cn/issues/2016-12-07 睡到自然醒.md",
-    "+ Encounters/todo list.md",
     "+ Encounters/SwiftUI.md",
     "Notion backup/B&J/面接対策/王K (2023-1-6) 0220fed272a64d51895747b3d453e46f.md",
     "Notion backup/B&J/面接対策 4599e2ab8d1e4943a1db1f896b9e3f42.md",
@@ -171,9 +198,6 @@
     "Blog/cn/about/_index.md",
     "+ Encounters/Balance.md",
     "Notion backup/B&J/freeCodeCamp 7d560001b4214dc8a50c222afcfa5a14.md",
-    "Notion backup/B&J/翻译作为爱好 816d5b0011e94e028ff5f574668b3845.md",
-    "Notion backup/B&J/Python 135f5312af524637ab288b43152345b9/指摘 43edb219989144c49857497bb433ab32.md",
-    "Notion backup/B&J/Python 135f5312af524637ab288b43152345b9.md",
-    "Notion backup/B&J/日記 9a2b5bc3181c49af8b2215de2946d623/April 44b1c7629e5046f3bc63f2c7a2ebfa3d/四月三十 5384ad489f564ed5bb7cabac793e28fc.md"
+    "Notion backup/B&J/翻译作为爱好 816d5b0011e94e028ff5f574668b3845.md"
   ]
 }

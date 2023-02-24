@@ -2,8 +2,8 @@
   "items": [
     {
       "type": "file",
-      "title": "todo list",
-      "path": "+ Encounters/todo list.md"
+      "title": "Home",
+      "path": "Home.md"
     }
   ]
 }
