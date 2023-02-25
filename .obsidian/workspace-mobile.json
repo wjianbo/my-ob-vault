@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading/The Effective Engineer.md",
+                "file": "Calendar/2023-01-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#finance/expense/jpy/eating-out",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "reading/The Effective Engineer.md",
+            "file": "Calendar/2023-01-17.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "reading/The Effective Engineer.md",
+            "file": "Calendar/2023-01-17.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,24 +114,32 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "reading/The Effective Engineer.md"
+            "file": "Calendar/2023-01-17.md"
           }
+        }
+      },
+      {
+        "id": "5f0c90dc3b1a9d11",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "32284d561bdab122",
+  "active": "aa18f03cae5f85f4",
   "lastOpenFiles": [
-    "+ Encounters/todo list.md",
-    "reading/The Effective Engineer.md",
-    "Calendar/2023-02-24.md",
-    "Blog/cn/issues/用 Obsidian 写博客.md",
+    "Calendar/2023-01-16.md",
+    "+ Encounters/Travel.md",
+    "+ Encounters/Planning.md",
+    "+ Encounters/Home (pub).md",
+    "+ Encounters/GGS Web Service.md",
+    "+ Encounters/Driver's license.md",
     "+ Encounters/Blog Notes.md",
-    "+ Encounters/SwiftUI.md",
-    "year/2022.md",
-    "MOC/Reading Notes.md",
-    "+ Encounters/关于习惯的养成.md",
-    "Calendar/2023-02-23.md"
+    "+ Encounters/Balance.md",
+    "year/2023.md",
+    "+ Encounters/To-do List.md"
   ]
 }
