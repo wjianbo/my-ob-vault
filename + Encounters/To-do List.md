@@ -4,22 +4,20 @@ top:: [[Home]]
 
 ## DOING
 
-
-
+- [x] [6 -> 3] 听译 3 条视频
+- [x] [1] 了解 Nushell 的功能用法
 
 ## TODAY
 
-- [ ] [6] 听译 3 条视频
-- [ ] [1] 了解 Nushell 的功能用法
-- [ ] [1] 阅读 *Rust 编程之道*
-- [ ] [1] 阅读*愤怒的勇气*
-- [ ] [ラ・フォル・ジュルネ TOKYO 2023　LFJチケット販売サイト](http://lfj.pia.jp)
+- [x] [1] 阅读 *Rust 编程之道*
+- [x] [1] 阅读*愤怒的勇气*
+- [x] [ラ・フォル・ジュルネ TOKYO 2023　LFJチケット販売サイト](http://lfj.pia.jp)
 - [ ] 
 
 ## THIS WEEK
 
 - [ ] [2] Solve 2 LeetCode problems 
-- [ ] [24] Video translation [1/12]
+- [ ] [12] Video translation [4/12]
 - [ ] API implementation 
 - [ ] Ask for code review 
 - [ ] [[张汉东 - Rust 编程之道]]
@@ -40,7 +38,7 @@ top:: [[Home]]
 - [ ] [[Travel]]
 - [ ] 学习 Rust
 	- [ ] [[张汉东 - Rust 编程之道]]
-	- [ ] 了解开源项目 Nushell
+	- [ ] 了解开源项目 [[Nushell]]
 
 ### Reading
 
