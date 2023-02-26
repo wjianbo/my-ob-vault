@@ -4,18 +4,18 @@ top:: [[Home]]
 
 ## DOING
 
-- [ ] [4] 听译 4 条视频
 
 ## TODAY
 
-- [ ] [1] 阅读 *Rust 编程之道*
+- [x] [1] 了解 Nushell 的功能用法
+- [x] [1] 阅读 *Rust 编程之道*
+- [x] [4 -> 3] 听译 4 条视频
 - [ ] [1] 阅读*愤怒的勇气*
-- [ ] [1] 了解 Nushell 的功能用法
 
 ## THIS WEEK
 
 - [ ] [2] Solve 2 LeetCode problems 
-- [ ] [12] Video translation [4/12]
+- [ ] [12] Video translation [8/12]
 - [ ] API implementation 
 - [ ] Ask for code review 
 - [ ] [[张汉东 - Rust 编程之道]]

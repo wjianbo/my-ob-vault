@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "f39e6dee692b397e",
+            "id": "ec02610d7a6f1a76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/To-do List.md",
+                "file": "Calendar/2023-02-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/To-do List.md",
+                "file": "Calendar/2023-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/To-do List.md",
+                "file": "Calendar/2023-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/To-do List.md"
+                "file": "Calendar/2023-02-26.md"
               }
             }
           },
@@ -170,11 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f39e6dee692b397e",
+  "active": "ec02610d7a6f1a76",
   "lastOpenFiles": [
     "Home.md",
-    "MOC/Daily Notes.md",
+    "Calendar/2023-02-26.md",
     "+ Encounters/To-do List.md",
+    "+ Encounters/自拍婚纱照.md",
+    "+ Encounters/婚礼.md",
+    "MOC/Daily Notes.md",
     "tech/百度网盘.md",
     "tech/张汉东 - Rust 编程之道.md",
     "tech/Nushell.md",
@@ -198,9 +201,6 @@
     "Books/村上春树杂文集.md",
     "Books/村上春树 - 当我谈跑步时我在谈些什么.md",
     "Books/村上春树 - 寻羊冒险记.md",
-    "Books/村上春树 - 天黑以后.md",
-    "Books/平川克美 - 锤炼语言的场所.md",
-    "Books/岸见一郎 - 幸福的勇气.md",
     "Books",
     "Extras/Images"
   ]
