@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/2023-02-26.md",
+                "file": "+ Encounters/换工作.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Calendar/2023-02-26.md",
+            "file": "+ Encounters/换工作.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Calendar/2023-02-26.md",
+            "file": "+ Encounters/换工作.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Calendar/2023-02-26.md"
+            "file": "+ Encounters/换工作.md"
           }
         }
       },
@@ -131,15 +131,15 @@
   },
   "active": "32284d561bdab122",
   "lastOpenFiles": [
-    "MOC/Daily Notes.md",
-    "Home.md",
     "+ Encounters/To-do List.md",
-    "+ Encounters/SwiftUI.md",
-    "Calendar/2023-02-25.md",
-    "Calendar/2023-02-24.md",
-    "tech/Git.md",
-    "MOC/Tech Notes.md",
+    "+ Encounters/GGS Web Service.md",
+    "Weekly Notes/2023-02-w07.md",
+    "Calendar/2023-01-27.md",
+    "MOC/Daily Notes.md",
+    "+ Encounters/100 Days in Obsidian.md",
+    "+ Encounters/app ideas.md",
+    "tech/Nushell.md",
     "tech/Java.md",
-    "Movies/晨光正好.md"
+    "tech/Rust---将字符串转换为-Pig-Latin.md"
   ]
 }
