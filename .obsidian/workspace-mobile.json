@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fa30a80dcc8683af",
+        "id": "1b64dd1899222a39",
         "type": "tabs",
         "children": [
           {
-            "id": "0cc80e3116ee72b9",
+            "id": "c946773df096bb93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/The Effective Engineer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Books/The Effective Engineer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Books/The Effective Engineer.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Books/The Effective Engineer.md"
-          }
+          "state": {}
         }
       },
       {
@@ -139,8 +131,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cc80e3116ee72b9",
+  "active": "c946773df096bb93",
   "lastOpenFiles": [
+    "Books/The Effective Engineer.md",
     "/Books/The Effective Engineer.md",
     "/+ Encounters/To-do List.md",
     "+ Encounters/To-do List.md",
@@ -166,7 +159,6 @@
     "writing/日记/人间失格.md",
     "writing/日记/要不要早起，这是个问题.md",
     "writing/日记/写作初学者.md",
-    "Calendar/2023-02-22.md",
     "tools",
     "Books",
     "tech",
