@@ -8,7 +8,7 @@ top:: [[Home]]
 ## TODAY
 
 - [ ] [1] 阅读 *Rust 编程之道*
-- [ ] 预约体检（14日）
+- [x] 预约体检（14日）
 - [ ] 预约练车
 
 ## THIS WEEK
@@ -45,10 +45,8 @@ top:: [[Home]]
 
 - [ ] 心灵、自我与社会
 - [ ] 怒る勇気
-<<<<<<< HEAD
 - [ ] CSAPP
 - [ ] Operating System - Three Easy Pieces
-=======
 
 ### Learn
 
@@ -63,4 +61,3 @@ top:: [[Home]]
 		- `xargs`
 		- `find`
 	- 
->>>>>>> origin/main
