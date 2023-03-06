@@ -8,13 +8,13 @@ top:: [[Home]]
 ## TODAY
 
 - [ ] [1] 阅读 *Rust 编程之道*
-- [ ] [4 -> 3] 听译 4 条视频
-- [ ] [1] 阅读*愤怒的勇气*
+- [ ] 预约体检（14日）
+- [ ] 预约练车
 
 ## THIS WEEK
 
 - [ ] [2] Solve 2 LeetCode problems 
-- [ ] [12] Video translation [8/12]
+- [x] [12] Video translation [8/12]
 - [ ] API implementation 
 - [ ] Ask for code review 
 - [ ] [[张汉东 - Rust 编程之道]]
@@ -45,5 +45,22 @@ top:: [[Home]]
 
 - [ ] 心灵、自我与社会
 - [ ] 怒る勇気
+<<<<<<< HEAD
 - [ ] CSAPP
 - [ ] Operating System - Three Easy Pieces
+=======
+
+### Learn
+
+- Linux
+	- Commands
+		- `grep`
+		- `sort`
+		- `uniq`
+		- `wc`
+		- `awk`
+		- `sed`
+		- `xargs`
+		- `find`
+	- 
+>>>>>>> origin/main
