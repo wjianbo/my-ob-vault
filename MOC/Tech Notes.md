@@ -3,4 +3,5 @@
 - [[Java]]
 - [[Git]]
 - [[Eclipse]]
+- [[Rust]]
 - 
