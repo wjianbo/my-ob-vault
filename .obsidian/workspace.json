@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "b142ac9c8ab85415",
+            "id": "6b300182af3e1893",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar/2023-03-16.md",
+                "file": "MOC/Daily Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar/2023-03-16.md",
+                "file": "MOC/Daily Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar/2023-03-16.md",
+                "file": "MOC/Daily Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/2023-03-16.md"
+                "file": "MOC/Daily Notes.md"
               }
             }
           },
@@ -169,16 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b142ac9c8ab85415",
+  "active": "6b300182af3e1893",
   "lastOpenFiles": [
     "Home.md",
-    "README.md",
+    "Notion backup/B&J/面接対策/王K (2023-1-6) 0220fed272a64d51895747b3d453e46f.md",
+    "Notion backup/B&J/面接対策/王K.md",
+    "Calendar/2023-03-16.md",
     "+ Encounters/买房.md",
     "+ Encounters/To-do List.md",
+    "README.md",
     "+ Encounters/Eclipse.md",
     "tech/Linux Notes.md",
     "Blog/cn/issues/41_Linux笔记.md",
-    "Calendar/2023-03-16.md",
     "tech/Rust.md",
     "Blog/cn/issues/_index.md",
     "Blog/cn/issues/13_四月第二周.md",
@@ -195,8 +197,6 @@
     "Calendar/2023-03-04.md",
     "tech/Nushell.md",
     "Calendar/2023-02-27.md",
-    "tech/17_Rust学习笔记.md",
-    "Day Planners/Day Planner-20230227.md",
     "Day Planners",
     "Yearly Notes",
     "Weekly Notes",
