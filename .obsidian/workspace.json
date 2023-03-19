@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOC/Daily Notes.md",
+                "file": "+ Encounters/To-do List.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC/Daily Notes.md",
+                "file": "+ Encounters/To-do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MOC/Daily Notes.md",
+                "file": "+ Encounters/To-do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MOC/Daily Notes.md"
+                "file": "+ Encounters/To-do List.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   "active": "6b300182af3e1893",
   "lastOpenFiles": [
     "Home.md",
+    "MOC/Daily Notes.md",
     "Notion backup/B&J/面接対策/王K (2023-1-6) 0220fed272a64d51895747b3d453e46f.md",
     "Notion backup/B&J/面接対策/王K.md",
     "Calendar/2023-03-16.md",
@@ -196,7 +197,6 @@
     "conflict-files-obsidian-git.md",
     "Calendar/2023-03-04.md",
     "tech/Nushell.md",
-    "Calendar/2023-02-27.md",
     "Day Planners",
     "Yearly Notes",
     "Weekly Notes",

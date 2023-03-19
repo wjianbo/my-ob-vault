@@ -18,6 +18,7 @@ top:: [[Home]]
 - [ ] [Build Your Text Editor With Rust! Part 3 | by Kofi Otuo | Medium](https://medium.com/@otukof/b030670fa815)
 - [ ] [1] 阅读 *Rust 编程之道*
 - [ ] 预约练车
+- [ ] [Learn PWA](https://web.dev/learn/pwa/)
 
 ## EVERY WEEK
 - [ ] [2] Solve 2 LeetCode problems 
