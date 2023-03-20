@@ -27,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/To-do List.md",
+                "file": "tech/Linux Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb97e27a81f231d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2023-03-20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/To-do List.md",
+                "file": "Calendar/2023-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/To-do List.md",
+                "file": "Calendar/2023-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/To-do List.md"
+                "file": "Calendar/2023-03-20.md"
               }
             }
           },
@@ -169,18 +181,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b300182af3e1893",
+  "active": "eb97e27a81f231d6",
   "lastOpenFiles": [
-    "Home.md",
-    "MOC/Daily Notes.md",
     "Notion backup/B&J/面接対策/王K (2023-1-6) 0220fed272a64d51895747b3d453e46f.md",
+    "Calendar/2023-03-20.md",
+    "tech/Bluetooth Connection.md",
+    "tech/Linux Notes.md",
+    "Home.md",
+    "+ Encounters/To-do List.md",
+    "MOC/Daily Notes.md",
     "Notion backup/B&J/面接対策/王K.md",
     "Calendar/2023-03-16.md",
     "+ Encounters/买房.md",
-    "+ Encounters/To-do List.md",
     "README.md",
     "+ Encounters/Eclipse.md",
-    "tech/Linux Notes.md",
     "Blog/cn/issues/41_Linux笔记.md",
     "tech/Rust.md",
     "Blog/cn/issues/_index.md",
@@ -195,8 +209,6 @@
     "tech/张汉东 - Rust 编程之道.md",
     "MOC/Tech Notes.md",
     "conflict-files-obsidian-git.md",
-    "Calendar/2023-03-04.md",
-    "tech/Nushell.md",
     "Day Planners",
     "Yearly Notes",
     "Weekly Notes",
