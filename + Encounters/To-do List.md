@@ -65,3 +65,6 @@ top:: [[Home]]
 		- `xargs`
 		- `find`
 	- 
+- OS
+	- [Operating System Engineering | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/)
+	- 
