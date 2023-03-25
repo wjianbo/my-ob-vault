@@ -12,7 +12,6 @@ top:: [[Home]]
 
 - [ ] API implementation 
 - [ ] Ask for code review 
-- [ ] [[张汉东 - Rust 编程之道]]
 - [ ] Read *[[The Effective Engineer]]*
 - [ ] 网球课
 - [ ] [Build Your Text Editor With Rust! Part 3 | by Kofi Otuo | Medium](https://medium.com/@otukof/b030670fa815)
@@ -32,8 +31,6 @@ top:: [[Home]]
 - [ ] [[买房]]
 - [ ] [[换工作]]
 - [ ] [[婚礼]]
-	- [ ] 日期
-	- [ ] 人员
 - [ ] [[自拍婚纱照]]
 - [ ] [[Travel]]
 - [ ] 学习 Rust
@@ -67,4 +64,8 @@ top:: [[Home]]
 	- 
 - OS
 	- [Operating System Engineering | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/)
-	- 
+
+### TASKS
+
+```tasks
+```
