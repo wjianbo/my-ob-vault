@@ -9,4 +9,6 @@ alias: ["000"]
 - [[Reading Notes]]
 - [[Entertainment Notes]]
 - [[To-do List]]
+- [[Daily Log (PC)]]
+- 
 
