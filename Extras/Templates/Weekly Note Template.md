@@ -1,6 +1,7 @@
 ---
 title: 第  周
-date: 2023-02-06
+date: {date}
 ---
 - LOG
 	- LeetCode [0/2]
+- I read

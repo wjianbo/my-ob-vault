@@ -21,6 +21,7 @@ top:: [[Home]]
 
 ## EVERY WEEK
 - [ ] [2] Solve 2 LeetCode problems 
+- [ ] 周报
 
 
 ## THIS MONTH
