@@ -10,5 +10,5 @@ alias: ["000"]
 - [[Entertainment Notes]]
 - [[To-do List]]
 - [[Daily Log (PC)]]
-- 
+- [[Templetes]]
 

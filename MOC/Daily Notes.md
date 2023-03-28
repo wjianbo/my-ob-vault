@@ -3,8 +3,9 @@ title: Daily Notes
 ---
 up:: [[Home]]
 
-Latest daily notes:
+Template:: [[daily note]]
 
+Latest daily notes:
 ```dataview
 list
 from "Calendar" and -#on/readme 
