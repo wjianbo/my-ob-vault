@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/cn/issues/看牙.md",
+                "file": "Blog/cn/issues/東京奇譚集.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Linux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "715e2fd0ea4d56e0",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/cn/issues/看牙.md",
+                "file": "Blog/cn/issues/東京奇譚集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/cn/issues/看牙.md",
+                "file": "Blog/cn/issues/東京奇譚集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/cn/issues/看牙.md"
+                "file": "Blog/cn/issues/東京奇譚集.md"
               }
             }
           },
@@ -148,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,6 +165,21 @@
   },
   "active": "3de48ed703fec2fe",
   "lastOpenFiles": [
+    "Blog/cn/translation/shiba/child.md",
+    "Blog/cn/issues/東京奇譚集.md",
+    "Blog/cn/issues/20210815.md",
+    "Calendar/2023-03-29.md",
+    "Calendar/2023-03-28.md",
+    "+ Encounters/Templetes.md",
+    "Home.md",
+    "Blog/cn/issues/vim.nvim.config.md",
+    "tech/vim.nvim.config.md",
+    "Notion backup/B&J - Notion backup.md",
+    "+ Encounters/回收站 1fe5afdf31804e6ba632561a38f824ab.md",
+    "Calendar/2023-03-27.md",
+    "+ Encounters/小原圣誉 - 凡人创业.md",
+    "+ Encounters/To-do List.md",
+    "Blog/cn/issues/看牙.md",
     "conflict-files-obsidian-git.md",
     "tech/SwiftUI.md",
     "tech/Eclipse.md",
@@ -174,25 +187,10 @@
     "Calendar/2023-03-25.md",
     "+ Encounters/Inbox.md",
     "+ Encounters/9_要做的事.md",
-    "Blog/cn/issues/看牙.md",
     "Calendar/2023-03-24.md",
     "Calendar/2023-04-30.md",
     "Calendar/2023-04-23.md",
     "+ Encounters/Daily Log (PC).md",
-    "Home.md",
-    "+ Encounters/男孩、鼹鼠、狐狸和马.md",
-    "Notion backup/B&J/回收站 1fe5afdf31804e6ba632561a38f824ab.md",
-    "Notion backup/B&J e26e80bf374743f18972609adf6eb496.md",
-    "+ Encounters/Untitled.md",
-    "+ Encounters/Git Blogger.md",
-    "+ Encounters/To-do List.md",
-    "Calendar/2022-11-04.md",
-    "tech/Linux Notes.md",
-    "+ Encounters/Eclipse.md",
-    "MOC/Tech Notes.md",
-    "writing/AI.md",
-    "Calendar/2023-03-20.md",
-    "Notion backup/B&J/面接対策/王K (2023-1-6) 0220fed272a64d51895747b3d453e46f.md",
     "Day Planners",
     "Yearly Notes",
     "Weekly Notes",
