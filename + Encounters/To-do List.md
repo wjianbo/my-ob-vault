@@ -8,18 +8,19 @@ top:: [[Home]]
 ## TODAY
 
 
+
 ## THIS WEEK
 
 - [ ] API implementation 
 - [ ] Ask for code review 
 - [ ] Read *[[The Effective Engineer]]*
-- [ ] 网球课
 - [ ] [Build Your Text Editor With Rust! Part 3 | by Kofi Otuo | Medium](https://medium.com/@otukof/b030670fa815)
 - [ ] [1] 阅读 *Rust 编程之道*
 - [ ] 预约练车
 - [ ] [Learn PWA](https://web.dev/learn/pwa/)
 
 ## EVERY WEEK
+- [ ] 网球课
 - [ ] [2] Solve 2 LeetCode problems 
 - [ ] 周报
 
@@ -46,7 +47,6 @@ top:: [[Home]]
 ### Reading
 
 - [ ] 心灵、自我与社会
-- [ ] 怒る勇気
 - [ ] CSAPP
 - [ ] Operating System - Three Easy Pieces
 
