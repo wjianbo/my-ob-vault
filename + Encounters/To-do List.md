@@ -7,12 +7,12 @@ top:: [[Home]]
 
 ## TODAY
 
-
+- [ ] 水费
 
 ## THIS WEEK
 
 - [ ] API implementation 
-- [ ] Ask for code review 
+- [x] Ask for code review
 - [ ] Read *[[The Effective Engineer]]*
 - [ ] [Build Your Text Editor With Rust! Part 3 | by Kofi Otuo | Medium](https://medium.com/@otukof/b030670fa815)
 - [ ] [1] 阅读 *Rust 编程之道*
