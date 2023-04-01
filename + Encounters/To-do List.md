@@ -7,7 +7,7 @@ top:: [[Home]]
 
 ## TODAY
 
-- [ ] 水费
+- [x] 水费
 
 ## THIS WEEK
 

@@ -8,6 +8,8 @@ Using Expo framework.
 - 只需要填写 token
 - 用户名可由 token 获取
 - 默认仓库名为 [owner].github.io
+- 编辑器
+	- 可以像 workflowy一样对整行进行删除、上下拖拽
 
 Resources:
 - [react-native-vector-icons directory](https://oblador.github.io/react-native-vector-icons/)
