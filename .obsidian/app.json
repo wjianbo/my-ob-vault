@@ -23,7 +23,8 @@
     "editor:move-caret-left",
     "editor:move-caret-right",
     "editor:go-start",
-    "editor:go-end"
+    "editor:go-end",
+    "editor:toggle-code"
   ],
   "attachmentFolderPath": "Extras/Images"
 }
