@@ -7,9 +7,15 @@ top:: [[Home]]
 
 ## TODAY
 
-- [x] 水费
+```tasks
+scheduled today
+```
 
 ## THIS WEEK
+
+```tasks
+scheduled this week
+```
 
 - [ ] API implementation 
 - [x] Ask for code review
@@ -69,4 +75,6 @@ top:: [[Home]]
 ### TASKS
 
 ```tasks
+scheduled before today
+not done
 ```
