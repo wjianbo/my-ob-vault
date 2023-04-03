@@ -17,13 +17,10 @@ scheduled today
 scheduled this week
 ```
 
-- [ ] API implementation 
+- [x] API implementation
 - [x] Ask for code review
 - [ ] Read *[[The Effective Engineer]]*
-- [ ] [Build Your Text Editor With Rust! Part 3 | by Kofi Otuo | Medium](https://medium.com/@otukof/b030670fa815)
-- [ ] [1] 阅读 *Rust 编程之道*
 - [ ] 预约练车
-- [ ] [Learn PWA](https://web.dev/learn/pwa/)
 
 ## EVERY WEEK
 - [ ] 网球课
@@ -46,9 +43,11 @@ scheduled this week
 	- [x] 了解开源项目 [[Nushell]]
 	- [ ] 了解开源项目 [[Skim]]
 	 - [ ] 了解社区 [https://rust-lang-jp.zulipchat.com/#](https://rust-lang-jp.zulipchat.com/#)
+	 - [ ] [Build Your Text Editor With Rust! Part 3 | by Kofi Otuo | Medium](https://medium.com/@otukof/b030670fa815)
  - [ ] 学习操作系统知识
  - [ ] 学习 Chrome 插件开发
 - [ ] Java Gold
+- [ ] [Learn PWA](https://web.dev/learn/pwa/)
 
 ### Reading
 
