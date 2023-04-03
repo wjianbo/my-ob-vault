@@ -29,6 +29,7 @@ scheduled this week
 
 
 ## THIS MONTH
+- [ ] 和晶一起学 React
 
 ## THIS YEAR [[2023]]
 
