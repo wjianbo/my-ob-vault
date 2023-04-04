@@ -1,0 +1,3 @@
+- Tow truths
+	- Skills take time and effort to master 
+	- Many things aren't fun until you're good at it 
