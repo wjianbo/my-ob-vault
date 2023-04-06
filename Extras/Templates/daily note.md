@@ -4,9 +4,8 @@ dates:: {{date}}
 
 - Three important action items today
 	- 
-	- 
-	- 
 - Log
+	- 
 - Work
 - Todos
 	- 
@@ -14,5 +13,5 @@ dates:: {{date}}
 	- 
 - Updated
 	- 
-- Read
+- thoughts 
 	- 
