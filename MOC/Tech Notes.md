@@ -4,4 +4,6 @@
 - [[Git]]
 - [[Eclipse]]
 - [[Rust]]
-- 
+- [[tech/3_Vim笔记]]
+- [[vim.nvim.config]]
+- [[Blog/cn/issues/3_Vim笔记]]

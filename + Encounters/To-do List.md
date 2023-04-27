@@ -17,10 +17,7 @@ scheduled today
 scheduled this week
 ```
 
-- [x] API implementation
-- [x] Ask for code review
 - [ ] Read *[[The Effective Engineer]]*
-- [ ] 预约练车
 
 ## EVERY WEEK
 - [ ] 网球课
@@ -55,7 +52,7 @@ scheduled this week
 - [ ] 心灵、自我与社会
 - [ ] CSAPP
 - [ ] Operating System - Three Easy Pieces
-
+- [ ] 女性的英雄之旅
 ### Learn
 
 - Linux
