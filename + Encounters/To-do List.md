@@ -32,7 +32,7 @@ scheduled this week
 
 - [ ] [[Driver's license]]
 - [ ] [[买房]]
-- [ ] [[换工作]]
+- [ ] [[転活]]
 - [ ] [[婚礼]]
 - [ ] [[自拍婚纱照]]
 - [ ] [[Travel]]

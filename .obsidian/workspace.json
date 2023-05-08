@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/To-do List.md",
+                "file": "Calendar/2023-04-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fern",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "715e2fd0ea4d56e0",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/To-do List.md",
+                "file": "Calendar/2023-04-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/To-do List.md",
+                "file": "Calendar/2023-04-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/To-do List.md"
+                "file": "Calendar/2023-04-28.md"
               }
             }
           },
@@ -165,6 +166,19 @@
   },
   "active": "ffa59645c636f8e9",
   "lastOpenFiles": [
+    "Calendar/2023-06-02.md",
+    "Calendar/2023-04-30.md",
+    "+ Encounters/転活.md",
+    "Calendar/2023-04-28.md",
+    "Calendar/2023-04-27.md",
+    "Vim/Neovim.md",
+    "Vim",
+    "Calendar/2023-04-25.md",
+    "Calendar/2023-04-21.md",
+    "Calendar/2023-04-19.md",
+    "+ Encounters/To-do List.md",
+    "Untitled.canvas",
+    "Calendar/2023-03-20.md",
     "Blog/cn/translation/shiba/child.md",
     "Calendar/2023-04-03.md",
     "Calendar/2023-04-02.md",
@@ -172,7 +186,6 @@
     "Calendar/2023-05-04.md",
     "+ Encounters/Himalaya.md",
     "Calendar/2023-03-30.md",
-    "+ Encounters/To-do List.md",
     "Calendar/2023-03-29.md",
     "+ Encounters/近况2023.md",
     "+ Encounters/This Is Us.md",
@@ -181,17 +194,7 @@
     "Notion backup/workflowy backup.md",
     "Notion backup/Know-how 6ef54c71dcfc4007ace52df41425315f/顶级知识管理工具Evernote的GTD应用详细指南 64969cdabbaf42a4adeaf6edbb989e26.md",
     "Notion backup/flomo backup.md",
-    "Notion backup/B&J/Tips 7238a9868e7d4f049d618057b6d586b1/Chrome Edge 开启多线程下载 – Telegraph.md",
     "Notion backup/Untitled",
-    "Blog/cn/issues/東京奇譚集.md",
-    "Blog/cn/issues/20210815.md",
-    "Calendar/2023-03-28.md",
-    "+ Encounters/Templetes.md",
-    "Blog/cn/issues/vim.nvim.config.md",
-    "tech/vim.nvim.config.md",
-    "Notion backup/B&J - Notion backup.md",
-    "+ Encounters/回收站 1fe5afdf31804e6ba632561a38f824ab.md",
-    "Calendar/2023-03-27.md",
     "Day Planners",
     "Yearly Notes",
     "Weekly Notes",
