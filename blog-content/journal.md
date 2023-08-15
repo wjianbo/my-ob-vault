@@ -9,8 +9,9 @@ draft = false
 - Translate
 - Hand-writing
 
-## 2023-08-14
+## 2023-08-15
 - GitHub Action for the deployment of my blog.
+- Tennis lesson
 
 ## 2023-08-14
 - Read [Tera](https://tera.netlify.app/) document.
