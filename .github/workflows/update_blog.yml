@@ -3,7 +3,7 @@ name: Push File
 on:
   push:
     paths:
-      - 'blog content/**'
+      - 'blog-content/**'
 
 jobs:
   copy-file:
@@ -17,7 +17,7 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
-        source_folder: 'blog content'
+        source_folder: 'blog-content'
         destination_repo: 'wjianbo/wjianbo.github.io'
         destination_branch: 'master'
         destination_folder: 'content'
