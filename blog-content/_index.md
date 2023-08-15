@@ -1,12 +1,13 @@
 +++
 +++
 
-> *"Keep It Simple, Stupid."*
+> 💡 *"Keep It Simple, Stupid."*
 
 ## About me
 
 - 日语翻译
 - 程序员
+- 现居日本
 
 ## Lists
 
