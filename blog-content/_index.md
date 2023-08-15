@@ -3,6 +3,11 @@
 
 > *"Keep It Simple, Stupid."*
 
+## About me
+
+- 日语翻译
+- 程序员
+
 ## Lists
 
 - 📚 [翻译](./lists/translations)
@@ -12,4 +17,4 @@
 
 - Email: [jnb.wang@gmail.com](mailto:jnb.wang@gmail.com)
 - Code Repositories: [wjianbo@GitHub](https://github.com/wjianbo)
-- @wjianbo anywhere else.
+- `@wjianbo` anywhere else.
