@@ -5,7 +5,7 @@
 
 ## Lists
 
-- [翻译](./lists/translations)
+- 📚 [翻译](./lists/translations)
 - 🎬 [看过的剧](./lists/series)
 
 ## Keep in touch
