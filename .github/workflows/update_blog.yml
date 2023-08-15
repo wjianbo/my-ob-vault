@@ -3,7 +3,7 @@ name: Push File
 on:
   push:
     paths:
-      - 'Blog/**'
+      - 'blog content/**'
 
 jobs:
   copy-file:
