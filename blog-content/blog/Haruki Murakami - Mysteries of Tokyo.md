@@ -1,5 +1,5 @@
 ---
-title: 東京奇譚集
+title: 村上春树《東京奇譚集》
 date: 2021-08-16
 taxonomies:
   tags: ["读过的书"]

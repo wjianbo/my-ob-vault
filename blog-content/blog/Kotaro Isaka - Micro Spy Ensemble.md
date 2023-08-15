@@ -1,5 +1,5 @@
 ---
-title: 小间谍合奏曲
+title: 伊坂幸太郎《小间谍合奏曲》
 date: 2023-02-09
 taxonomies:
   tags: ["读过的书"]
