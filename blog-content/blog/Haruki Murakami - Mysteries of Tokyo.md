@@ -1,7 +1,8 @@
 ---
 title: 東京奇譚集
 date: 2021-08-16
-tags: [读书]
+taxonomies:
+  tags: ["读过的书"]
 ---
 『東京奇譚集』
 
