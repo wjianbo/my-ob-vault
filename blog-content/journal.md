@@ -10,5 +10,5 @@
 - 网球课
 
 ## 2023-08-14
-- 又又又换主题了：[anemone](https://www.getzola.org/themes/anemone/)
-- 2024 东京马拉松报名
+- 又又又给博客换主题了：[anemone](https://www.getzola.org/themes/anemone/)
+- 2024 年东京马拉松报名
