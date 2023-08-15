@@ -17,10 +17,10 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
-        source_folder: 'Blog'
-        destination_repo: 'wjianbo/blog-data'
-        destination_branch: 'main'
+        source_folder: 'blog content'
+        destination_repo: 'wjianbo/wjianbo.github.io'
+        destination_branch: 'master'
         destination_folder: 'content'
         user_email: 'jnb.wang@gmail.com'
-        user_name: 'jianbo'
+        user_name: 'wjianbo'
         commit_msg: '[GHA] Update blog contents.'
