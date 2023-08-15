@@ -1,5 +1,17 @@
 +++
 title = "Series, Movies & Cartons"
 +++
-# Series, Movies & Cartons
+# 看过的剧集、电影和动漫
+## 在看
+- 海贼王
+- 一兆游戏
+- VIVANT
+## 2023
+### 电影
+- 怪物
+- 霸王别姬
+### 连续剧
 - 古相思曲
+- 不完美受害者
+- 欢颜
+- 秘密入侵
