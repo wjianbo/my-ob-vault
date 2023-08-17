@@ -45,14 +45,14 @@ six tasks:
 - [x] work
 - [x] learn rust
 - [x] push up 4
-- [] driving license files
-- [] email app upload
+- [ ] driving license files
+- [ ] email app upload
 - [x] reading
 
 routine:
 
 - [x] make coffee
-- [] leetcode
+- [ ] leetcode
 
 do not know where to start?
 
