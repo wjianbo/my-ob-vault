@@ -1,4 +1,6 @@
 ---
+title: Steam Deck 桌面模式安装中日文输入法 
+date: 2023-08-17
 ---
 
 安装中日文输入法（Steam Deck 桌面模式）
