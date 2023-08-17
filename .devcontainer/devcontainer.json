@@ -1,0 +1,10 @@
+{
+    "name": "Codespace Personal Notes",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "vscodevim.vim"
+            ]
+        }
+    }
+}
