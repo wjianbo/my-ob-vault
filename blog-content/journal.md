@@ -24,3 +24,38 @@
 - 看剧：《不完美受害者》《欢颜》《秘密入侵》。
 - 推特 logo 变成了X。
 - 最难是创造，其次是传播，最易是消费。
+
+# 2022-12-19
+- bought *ELDEN RING*
+
+# 2022-12-23
+
+Try to write down everything I do or think.
+
+- make coffee
+- 9:00 -- meeting
+- switch between windows of the same program --> one window with multi tabs is enough.
+- how to input emoji
+- leetcode
+
+# 2022-12-26
+
+six tasks:
+
+- [x] work
+- [x] learn rust
+- [x] push up 4
+- [] driving license files
+- [] email app upload
+- [x] reading
+
+routine:
+
+- [x] make coffee
+- [] leetcode
+
+do not know where to start?
+
+go back to design.
+
+write your thoughts down to clear your mind.
