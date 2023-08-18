@@ -2,6 +2,10 @@
 +++
 # Daily Log
 ## 2023-08-17
+- 跑步
+- 试用 [kitty](https://sw.kovidgoyal.net/kitty/overview/)
+- 日剧《VIVANT》
+## 2023-08-17
 - 把 Steam Deck 恢复了出厂设置： `steamos-factory-reset`
 ## 2023-08-15 🌧️
 - ~~网球课~~
