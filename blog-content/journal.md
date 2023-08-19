@@ -44,10 +44,10 @@
 - 推特 logo 变成了X。
 - 最难是创造，其次是传播，最易是消费。
 
-# 2022-12-19
+## 2022-12-19
 - bought *ELDEN RING*
 
-# 2022-12-23
+## 2022-12-23
 
 Try to write down everything I do or think.
 
@@ -57,7 +57,7 @@ Try to write down everything I do or think.
 - how to input emoji
 - leetcode
 
-# 2022-12-26
+## 2022-12-26
 
 six tasks:
 
