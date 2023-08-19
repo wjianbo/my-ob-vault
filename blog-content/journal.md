@@ -6,10 +6,13 @@
 - 准备 Java SE-11 Gold 考试
 - 学习 AWS
 - 找房子
+## 2023-08-20
+- 烛光音乐会
 ## 2023-08-19
 - 丢垃圾
 - 翻译
 - 给 GitHub 仓库添加 Codespaces 设置
+- 教晶的侄儿日语
 ## 2023-08-18
 - 跑步
 - 试用 [kitty](https://sw.kovidgoyal.net/kitty/overview/)
