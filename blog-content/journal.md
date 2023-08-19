@@ -1,10 +1,20 @@
 +++
 +++
 # Daily Log
-## 2023-08-17
+## 在做的事
+- 翻译[雑居家族](https://aozora.binb.jp/reader/main.html?cid=59897)
+- 准备 Java SE-11 Gold 考试
+- 学习 AWS
+- 找房子
+## 2023-08-19
+- 丢垃圾
+- 翻译
+- 给 GitHub 仓库添加 Codespaces 设置
+## 2023-08-18
 - 跑步
 - 试用 [kitty](https://sw.kovidgoyal.net/kitty/overview/)
 - 日剧《VIVANT》
+- 游泳 100m
 ## 2023-08-17
 - 把 Steam Deck 恢复了出厂设置： `steamos-factory-reset`
 ## 2023-08-15 🌧️
