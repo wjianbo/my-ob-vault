@@ -6,6 +6,10 @@ title = "Series, Movies & Cartons"
 - 海贼王
 - 一兆游戏
 - VIVANT
+
+## 想看
+- 勿言推理（9.15）
+- 间谍过家家
 ## 2023
 
 ### 剧集
