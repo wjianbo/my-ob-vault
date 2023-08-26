@@ -12,6 +12,7 @@
 ## Lists
 
 - 📚 [翻译](./lists/translations)
+- 📚 [读书](./lists/books)
 - 🎬 [看过的剧](./lists/series)
 
 ## Keep in touch
