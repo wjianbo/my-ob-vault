@@ -6,3 +6,4 @@
 ## Someday/Maybe 
 
 - 『天才兄妹』野村胡堂
+- [『討たせてやらぬ敵討』長谷川伸](https://www.aozora.gr.jp/cards/001726/card55793.html)
