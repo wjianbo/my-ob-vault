@@ -1,7 +1,14 @@
 +++
 +++
 
-> 💡 *"Keep It Simple, Stupid."*
+> 💡 尝试把一切记录在同一个地方。
+
+## Daily notes
+
+### 2024-02-07
+
+- 出社
+- 听播客[‎【随机波动125】人生的债，怎么越还越多？](https://podcasts.apple.com/jp/podcast/%E9%9A%8F%E6%9C%BA%E6%B3%A2%E5%8A%A8stochasticvolatility/id1504681387?i=1000642730584)，讲《冰血暴》，才知道这是部大女主剧。
 
 ## About me
 
