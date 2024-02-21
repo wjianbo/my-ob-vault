@@ -13,6 +13,12 @@ scheduled today
 
 ## THIS WEEK
 
+- [ ] 给体检诊所打电话，问是否能拿到彩超报告，是否严重，是否影响生产
+- [ ] 约刘老师
+- [ ] 参加读书会
+- [ ] 青空朗读
+- [ ] [驾照翻译](https://jafnavi.jp/honyaku/uketuke/mail_registration.php)
+
 ```tasks
 scheduled this week
 ```
@@ -20,7 +26,6 @@ scheduled this week
 - [ ] Read *[[The Effective Engineer]]*
 
 ## EVERY WEEK
-- [ ] 网球课
 - [ ] [2] Solve 2 LeetCode problems 
 - [ ] 周报
 
@@ -31,9 +36,9 @@ scheduled this week
 ## THIS YEAR [[2023]]
 
 - [ ] [[Driver's license]]
-- [ ] [[买房]]
+- [x] [[买房]]
 - [ ] [[転活]]
-- [ ] [[婚礼]]
+- [x] [[婚礼]]
 - [ ] [[自拍婚纱照]]
 - [ ] [[Travel]]
 - [ ] 学习 Rust
