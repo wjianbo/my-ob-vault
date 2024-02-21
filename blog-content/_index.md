@@ -20,6 +20,7 @@
 📚阅读
 
 - [ ] [Rust で MVP な Web API サーバを開発する方法](https://zenn.dev/tetter/books/webapi-mvp-book)
+- [ ] バカと無知
 
 🎬 娱乐
 
