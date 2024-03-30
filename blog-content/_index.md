@@ -22,6 +22,7 @@
 - [ ] [Rust で MVP な Web API サーバを開発する方法](https://zenn.dev/tetter/books/webapi-mvp-book)
 - [ ] 囚徒健身
 - [ ] 每天工作4小时
+- [ ] [grep-by-example](https://antonz.org/grep-by-example/)
 - [x] 低コスト生活
 - [x] バカと無知
 - [x] 10倍写作术
@@ -29,6 +30,7 @@
 🎬 娱乐
 
 - [ ] Break Point 
+- [ ] 四重奏（重温）
 - [x] 三体
 - [x] 葬送的芙莉莲🌟🌟🌟🌟🌟
 - [x] 蓝眼武士🌟🌟🌟🌟🌟
@@ -79,7 +81,7 @@
 
 田町。
 
-- [ ] 打印驾照翻译
+- [x] 打印驾照翻译
 - [ ] Java习题
 - [ ] 
 
