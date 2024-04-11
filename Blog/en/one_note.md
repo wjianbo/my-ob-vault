@@ -26,6 +26,7 @@ Ideas
 - Use *Running Page* to track push up workouts
 - Use color code as password hint
 - Post a message automatically after a workout is done
+- Do and forget
 
 Mindsets
 ========
@@ -69,6 +70,10 @@ Shopping:
 - [ ] White vinegar
 - [ ] Soap powder
 
+Daily
+=====
+- *Frieren*
+
 2024-04-16
 ==========
 Salesperson from the air conditioner store is coming for a site visit.
@@ -77,10 +82,15 @@ Salesperson from the air conditioner store is coming for a site visit.
 ==========
 TODOs:
 - [x] Run
-- [ ] Dorapoke: episode selection view
-- [ ] Reinwill: navigation 
-- [ ] Running Page: figure out how to generate svg
+- [x] Dorapoke: episode selection view
+- [x] Reinwill: upload source code to github repository 
+- [x] Running Page: figure out how to generate svg
 - [ ] Driver's lisence: solve 10 problems
+- [ ] Dorapoke: upload source code to gitlab
+- [ ] Reinwill: navigation 
+
+SteamDeck system updated.
+Installed zola.
 
 2024-04-10
 ==========
