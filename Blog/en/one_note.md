@@ -1,5 +1,7 @@
-Planning
-========
+English Journal
+===============
+**English only**
+**Keep important things (not passwords) in one place**
 
 Yearly Goals
 ============
@@ -19,6 +21,29 @@ Reading
 - [ ] *What we talk about when we talk about translation*
 - [ ] *Killing Commendatore*
 
+Ideas
+=====
+- Use *Running Page* to track push up workouts
+- Use color code as password hint
+- Post a message automatically after a workout is done
+
+Mindsets
+========
+1. One step at a time
+2. Repeat
+> If you’re talking about something new or novel, 
+you’ll have to repeat yourself for years before you’re heard.
+-- 37signals
+
+Someday/Maybe
+=============
+- Sketch
+- Wood carving
+
+Wish List
+=========
+- Earphones
+   
 This month
 ==========
 TODOs:
@@ -40,27 +65,10 @@ Next week
 
 This week
 =========
+Shopping:
+- [ ] White vinegar
+- [ ] Soap powder
 
-Ideas
-=====
-- Use color code as password hint
-- Use *Running Page* to track push up workouts
-- Post a message automatically after a workout is done
-
-Mindsets
-========
-1. One step at a time
-2. Keep sending messages
-
-Someday/Maybe
-=============
-- Sketch
-- Wood carving
-
-Wish List
-=========
-- Earphones
-   
 2024-04-16
 ==========
 Salesperson from the air conditioner store is coming for a site visit.
@@ -68,7 +76,7 @@ Salesperson from the air conditioner store is coming for a site visit.
 2024-04-11
 ==========
 TODOs:
-- [ ] Run
+- [x] Run
 - [ ] Dorapoke: episode selection view
 - [ ] Reinwill: navigation 
 - [ ] Running Page: figure out how to generate svg
