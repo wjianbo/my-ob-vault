@@ -45,6 +45,7 @@ Ideas
 =====
 - Use color code as password hint
 - Use *Running Page* to track push up workouts
+- Post a message automatically after a workout is done
 
 Mindsets
 ========
