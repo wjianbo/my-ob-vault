@@ -25,7 +25,7 @@ Ideas
 =====
 - Use *Running Page* to track push up workouts
 - Use color code as password hint
-- Post a message automatically after a workout is done
+- Post a message automatically after a workout is done(GAB: Garmin Activity Broadcasting)
 - Generate a weekly/monthly/yearly report and share to Telegram/X...
 (Do and forget)
 
@@ -73,7 +73,14 @@ Shopping:
 
 Daily
 =====
-- *Frieren*
+- [ ] Solve Java Gold Problem
+- [ ] Solve Driver'license test Problem
+- [ ] Dorapke app
+- [ ] Reinwill blog
+- [ ] Garmin Activity Broadcast
+- [ ] Push up
+- [ ] *Killing Commendatore*
+- [ ] *Frieren*
 
 2024-04-16
 ==========
@@ -82,8 +89,18 @@ Salesperson from the air conditioner store is coming for a site visit.
 2024-04-12
 ==========
 TODOs:
-- [ ] Dorapoke: upload source code to gitlab
+- [ ] Broadcasting garmin activities
+- [ ] Solve Java Gold Problem
+- [ ] Solve Driver'license test Problem
+- [ ] Reinwill: auto deploy 
 - [ ] Reinwill: navigation 
+- [x] *Frieren*
+- [x] *Killing Commendatore*
+- [x] Trash
+- [x] Dorapoke: upload source code to gitlab
+- [x] Reinwill: show categories in footer section
+
+Installed yazi on Macbook Air.
 
 2024-04-11
 ==========
