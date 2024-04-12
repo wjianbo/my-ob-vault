@@ -26,7 +26,8 @@ Ideas
 - Use *Running Page* to track push up workouts
 - Use color code as password hint
 - Post a message automatically after a workout is done
-- Do and forget
+- Generate a weekly/monthly/yearly report and share to Telegram/X...
+(Do and forget)
 
 Mindsets
 ========
@@ -78,6 +79,12 @@ Daily
 ==========
 Salesperson from the air conditioner store is coming for a site visit.
 
+2024-04-12
+==========
+TODOs:
+- [ ] Dorapoke: upload source code to gitlab
+- [ ] Reinwill: navigation 
+
 2024-04-11
 ==========
 TODOs:
@@ -85,9 +92,7 @@ TODOs:
 - [x] Dorapoke: episode selection view
 - [x] Reinwill: upload source code to github repository 
 - [x] Running Page: figure out how to generate svg
-- [ ] Driver's lisence: solve 10 problems
-- [ ] Dorapoke: upload source code to gitlab
-- [ ] Reinwill: navigation 
+- [x] Driver's lisence: solve 10 problems
 
 SteamDeck system updated.
 Installed zola.
