@@ -28,14 +28,15 @@ Ideas
 - Post a message automatically after a workout is done(GAB: Garmin Activity Broadcasting)
 - Generate a weekly/monthly/yearly report and share to Telegram/X...
 (Do and forget)
+- Shopping list app
 
 Mindsets
 ========
-1. One step at a time
-2. Repeat
+1. REPEAT
 > If you’re talking about something new or novel, 
 you’ll have to repeat yourself for years before you’re heard.
 -- 37signals
+2. Take SMALL steps
 
 Someday/Maybe
 =============
@@ -77,7 +78,7 @@ Daily
 - [ ] Solve Driver'license test Problem
 - [ ] Dorapke app
 - [ ] Reinwill blog
-- [ ] Garmin Activity Broadcast
+- [ ] running-page
 - [ ] Push up
 - [ ] *Killing Commendatore*
 - [ ] *Frieren*
@@ -86,14 +87,26 @@ Daily
 ==========
 Salesperson from the air conditioner store is coming for a site visit.
 
-2024-04-12
+TODOs:
+- [ ] running-page 
+  - [ ] bugfix: run only
+  - [ ] change link info
+- [ ] reinwill-blog: navigation with pulldown 
+ 
+2024-04-15
 ==========
 TODOs:
-- [ ] Broadcasting garmin activities
-- [ ] Solve Java Gold Problem
-- [ ] Solve Driver'license test Problem
-- [ ] Reinwill: auto deploy 
-- [ ] Reinwill: navigation 
+- [ ] Dorapke app
+- [ ] Push up
+- [ ] *Killing Commendatore*
+- [x] *Frieren*
+- [x] reinwill-blog: auto deploy 
+- [x] Solve Driver'license test Problem
+- [x] Solve Java Gold Problem
+- [x] running-page: gh-page publish
+
+2024-04-12
+==========
 - [x] *Frieren*
 - [x] *Killing Commendatore*
 - [x] Trash
