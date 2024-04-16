@@ -83,24 +83,25 @@ Daily
 - [ ] *Killing Commendatore*
 - [ ] *Frieren*
 
-2024-04-16
+2024-04-17
 ==========
-Salesperson from the air conditioner store is coming for a site visit.
-
 TODOs:
 - [ ] running-page 
-  - [ ] bugfix: run only
   - [ ] change link info
 - [ ] reinwill-blog: navigation with pulldown 
 - [ ] dorapke: payment solution
-- [ ] Push up
-- [ ] *Killing Commendatore*
-- [ ] *Frieren*
+
+2024-04-16
+==========
+Salesperson from the air conditioner store is coming for a site visit.
+- [x] Push up
+- [x] *Frieren*
+- [x] *Killing Commendatore*
  
 2024-04-15
 ==========
 TODOs:
-- [ ] *Killing Commendatore*
+- [x] *Killing Commendatore*
 - [x] *Frieren*
 - [x] Push up
 - [x] dorapke: episode list view
