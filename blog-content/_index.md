@@ -20,6 +20,7 @@
 📚阅读
 
 - [ ] [Rust で MVP な Web API サーバを開発する方法](https://zenn.dev/tetter/books/webapi-mvp-book)
+- [ ] The Inner Game of Tennis 
 - [ ] 囚徒健身
 - [ ] 每天工作4小时
 - [ ] [grep-by-example](https://antonz.org/grep-by-example/)
@@ -66,13 +67,10 @@
 
 ### This week 
 
-- [ ] 选照片联系摄影师
-
 ## Weekly 
 - 周一：跑步
-- 周二：田町
 - 周三：幕張
-- 周日：网球讲习（2/4）
+- 周日：网球
 
 ### Daily
 
