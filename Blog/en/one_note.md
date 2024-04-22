@@ -83,23 +83,28 @@ Daily
 - [ ] *Killing Commendatore*
 - [ ] *Frieren*
 
+2024-04-17
+==========
+TODOs:
+- [ ] running-page 
+  - [ ] change link info
+- [ ] reinwill-blog: navigation with pulldown 
+- [ ] dorapke: payment solution
+
 2024-04-16
 ==========
 Salesperson from the air conditioner store is coming for a site visit.
-
-TODOs:
-- [ ] running-page 
-  - [ ] bugfix: run only
-  - [ ] change link info
-- [ ] reinwill-blog: navigation with pulldown 
+- [x] Push up
+- [x] *Frieren*
+- [x] *Killing Commendatore*
  
 2024-04-15
 ==========
 TODOs:
-- [ ] Dorapke app
-- [ ] Push up
-- [ ] *Killing Commendatore*
+- [x] *Killing Commendatore*
 - [x] *Frieren*
+- [x] Push up
+- [x] dorapke: episode list view
 - [x] reinwill-blog: auto deploy 
 - [x] Solve Driver'license test Problem
 - [x] Solve Java Gold Problem
