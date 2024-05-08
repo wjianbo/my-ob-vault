@@ -3,11 +3,6 @@
 # Daily Log
 ## 在做的事
 - 准备 Java SE-11 Gold 考试
-- 学习 AWS
-- 翻译《102岁，一个人生活》
-- 练字
-- 练琴🎸
-- telegram 信息同步到 Twitter
 
 ## 2024-01-23
 - 回到日本

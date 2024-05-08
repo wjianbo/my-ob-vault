@@ -20,11 +20,9 @@
 
 📚阅读
 
-- [ ] [Rust で MVP な Web API サーバを開発する方法](https://zenn.dev/tetter/books/webapi-mvp-book)
 - [ ] The Inner Game of Tennis 
 - [ ] 囚徒健身
 - [ ] 每天工作4小时
-- [ ] [grep-by-example](https://antonz.org/grep-by-example/)
 - [x] 騎士団長殺し
 - [x] 低コスト生活
 - [x] バカと無知
@@ -77,7 +75,13 @@
 
 - 6 点起床
 ## Daily notes
+### 2024-05-08
 
+开始和晶一起看《史密斯夫妇》。
+
+### 2024-05-07
+
+工人上门安装空调。追加费用23100日元（外机支架，管道外罩转角）。
 ### 2024-05-06
 
 十连休最后一天。
