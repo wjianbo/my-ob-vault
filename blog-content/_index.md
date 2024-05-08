@@ -2,7 +2,7 @@
 +++
 
 > Update📢
-> - 添加了[学习资料](./list/learning)页面。
+> - 添加了[学习资料](./lists/learning)页面。
 
 ## Planning
 ### This year
