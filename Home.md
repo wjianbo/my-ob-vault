@@ -4,11 +4,9 @@ alias: ["000"]
 # Home 🏠
 
 - [[Daily Notes]]
-- [[Yearly Notes]]
 - [[Tech Notes]]
 - [[Reading Notes]]
 - [[Entertainment Notes]]
-- [[To-do List]]
-- [[Daily Log (PC)]]
-- [[Templetes]]
-
+- [[todo]]
+- [[one_note]]
+- 

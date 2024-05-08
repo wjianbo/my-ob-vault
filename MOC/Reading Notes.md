@@ -13,6 +13,7 @@ title: "阅读"
 
 - [[岸见一郎 - 幸福的勇气]]
 - [[小原圣誉 - 凡人创业]]
+- [[懒人开悟法]]
 
 ## 2022
 
@@ -31,7 +32,7 @@ title: "阅读"
 
 ## 2016
 
-- [[村上春树 - 当我谈跑步时我在谈些什么]]
+- [[Haruki Murakami - What I Talk About When I Talk About Running]]
 
 ## 不详
 
