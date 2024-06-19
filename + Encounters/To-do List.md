@@ -123,6 +123,7 @@ scheduled this week
 
 ### Reading
 
+- [x] 一句顶一万句
 - [ ] 心灵、自我与社会
 - [ ] CSAPP
 - [ ] Operating System - Three Easy Pieces
