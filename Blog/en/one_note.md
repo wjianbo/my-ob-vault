@@ -2,41 +2,63 @@ English Journal
 ===============
 **English only**
 **Keep important things (not passwords) in one place**
+**Wednesday(Makuhari) Only**
 
-Yearly Goals
+Yearly Goals(2024)
 ============
 - [ ] Change job
-- [ ] Marathon
-- [ ] Java Gold
+- [ ] Marathon(10/27)
 - [ ] Build a website
 - [ ] Writing
 - [ ] Guitar
 - [ ] Driver's license
 - [ ] iOS application
+- [x] Java Gold
 - [x] Join tennis circle
 - [x] Translate a book
 
+Writing
+=======
+- [ ] World Book Day(4.23): Share my reading list from last year.
+- [ ] How to add search function to static websites via pagefind(Japanese/Chinese)
+
 Reading
 =======
+- [x] *The Inner Game of Tennis*
 - [ ] *What we talk about when we talk about translation*
-- [ ] *Killing Commendatore*
+- [x] *Killing Commendatore*
+- [ ] *Frieren*
 
 Ideas
 =====
 - Use *Running Page* to track push up workouts
+Generate github-like graph visualizing activity data.
 - Use color code as password hint
 - Post a message automatically after a workout is done(GAB: Garmin Activity Broadcasting)
 - Generate a weekly/monthly/yearly report and share to Telegram/X...
 (Do and forget)
 - Shopping list app
 
-Mindsets
-========
-1. REPEAT
+Mindsets/Principles
+===================
+0. FAILURE
+Failure is always possible. Be prepared.
+1. IMPORTANCE
+Is that important?
+2. KISS
+Keep it simple, stupid!
+3. LEARN IN PUBLIC
+A blog isn't considered truly public unless it has a sufficient number of readers.
+Telegram is better.
+4. REPEAT
 > If you’re talking about something new or novel, 
 you’ll have to repeat yourself for years before you’re heard.
 -- 37signals
-2. Take SMALL steps
+5. SMALL
+Continuously do small things. Take small steps
+6. STANDALONE
+Don't start challenges like '100 days of xxx' which you never finish. 
+Instead, make each task a standalone piece.
 
 Someday/Maybe
 =============
@@ -46,6 +68,7 @@ Someday/Maybe
 Wish List
 =========
 - Earphones
+- Remarkable
    
 This month
 ==========
@@ -63,33 +86,56 @@ I need to learn SwiftUI again. I'll put off studying for Java Gold for a little 
 
 Next week
 =========
-- [ ] Driver's license - Apply
-- [ ] Air conditioner
+- [ ] TeamLab entry
 
 This week
 =========
 Shopping:
-- [ ] White vinegar
 - [ ] Soap powder
 
 Daily
 =====
-- [ ] Solve Java Gold Problem
-- [ ] Solve Driver'license test Problem
 - [ ] Dorapke app
 - [ ] Reinwill blog
 - [ ] running-page
 - [ ] Push up
-- [ ] *Killing Commendatore*
-- [ ] *Frieren*
 
-2024-04-17
+2024-07-16
+==========
+- [ ] driving test
+
+2024-07-15
+==========
+- [ ] driving practice 
+
+2024-06-19
 ==========
 TODOs:
 - [ ] running-page 
   - [ ] change link info
-- [ ] reinwill-blog: navigation with pulldown 
 - [ ] dorapke: payment solution
+- [x] reinwill-blog: navigation with pulldown 
+
+2024-05-07
+==========
+- [x] Air conditioner
+
+2024-05-01
+==========
+- [x] Driver's license - Apply
+
+2024-04-27
+==========
+- [x] Talk
+
+2024-04-26
+==========
+- Meeting
+- Report progress on the app
+
+2024-04-17
+==========
+- [x] solve 10 java gold problem
 
 2024-04-16
 ==========
