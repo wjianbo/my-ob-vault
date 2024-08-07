@@ -11,8 +11,8 @@ Yearly Goals(2024)
 - [ ] Build a website
 - [ ] Writing
 - [ ] Guitar
-- [ ] Driver's license
 - [ ] iOS application
+- [x] Driver's license
 - [x] Java Gold
 - [x] Join tennis circle
 - [x] Translate a book
@@ -24,10 +24,10 @@ Writing
 
 Reading
 =======
+- [ ] *Just For Fun*
 - [x] *The Inner Game of Tennis*
-- [ ] *What we talk about when we talk about translation*
 - [x] *Killing Commendatore*
-- [ ] *Frieren*
+- [x] *Frieren*
 
 Ideas
 =====
@@ -41,22 +41,24 @@ Generate github-like graph visualizing activity data.
 
 Mindsets/Principles
 ===================
-0. FAILURE
+0. CHALLENGE
+Don't be afraid of taking challenges.
+1. FAILURE
 Failure is always possible. Be prepared.
-1. IMPORTANCE
+2. IMPORTANCE
 Is that important?
-2. KISS
+3. KISS
 Keep it simple, stupid!
-3. LEARN IN PUBLIC
+4. LEARN IN PUBLIC
 A blog isn't considered truly public unless it has a sufficient number of readers.
 Telegram is better.
-4. REPEAT
+5. REPEAT
 > If you’re talking about something new or novel, 
 you’ll have to repeat yourself for years before you’re heard.
 -- 37signals
-5. SMALL
+6. SMALL
 Continuously do small things. Take small steps
-6. STANDALONE
+7. STANDALONE
 Don't start challenges like '100 days of xxx' which you never finish. 
 Instead, make each task a standalone piece.
 
@@ -91,7 +93,7 @@ Next week
 This week
 =========
 Shopping:
-- [ ] Soap powder
+- [x] Soap powder
 
 Daily
 =====
@@ -100,19 +102,24 @@ Daily
 - [ ] running-page
 - [ ] Push up
 
+2024-08-07
+==========
+- Makuhari
+- Nothing in mind
+
 2024-07-16
 ==========
-- [ ] driving test
+- [x] driving test
 
 2024-07-15
 ==========
-- [ ] driving practice 
+- [x] driving practice 
 
 2024-06-19
 ==========
 TODOs:
 - [ ] running-page 
-  - [ ] change link info
+  - [x] change link info
 - [ ] dorapke: payment solution
 - [x] reinwill-blog: navigation with pulldown 
 
