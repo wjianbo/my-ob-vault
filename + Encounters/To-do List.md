@@ -10,7 +10,7 @@ top:: [[Home]]
 - [ ] 造娃
 - [ ] 帮朋友做网站
 - [x] Java Gold
-- [ ] 换驾照
+- [x] 换驾照
 - [ ] 阅读
 - [ ] 写作
 - [ ] 网球
@@ -84,11 +84,10 @@ scheduled today
 
 ## THIS WEEK
 
-- [ ] 给体检诊所打电话，问是否能拿到彩超报告，是否严重，是否影响生产
 - [ ] 约刘老师
 - [ ] 参加读书会
 - [ ] 青空朗读
-- [ ] [驾照翻译](https://jafnavi.jp/honyaku/uketuke/mail_registration.php)
+- [x] [驾照翻译](https://jafnavi.jp/honyaku/uketuke/mail_registration.php)
 
 ```tasks
 scheduled this week

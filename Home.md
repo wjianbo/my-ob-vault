@@ -7,6 +7,5 @@ alias: ["000"]
 - [[Tech Notes]]
 - [[Reading Notes]]
 - [[Entertainment Notes]]
-- [[todo]]
 - [[one_note]]
 - 

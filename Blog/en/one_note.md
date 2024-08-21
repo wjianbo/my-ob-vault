@@ -11,7 +11,7 @@ Yearly Goals(2024)
 - [ ] Build a website
 - [ ] Writing
 - [ ] Guitar
-- [ ] iOS application
+- [x] iOS application
 - [x] Driver's license
 - [x] Java Gold
 - [x] Join tennis circle
@@ -71,6 +71,8 @@ Wish List
 =========
 - Earphones
 - Remarkable
+- Typewriter
+- Game: WuKong
    
 This month
 ==========
