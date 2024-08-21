@@ -25,6 +25,7 @@ Writing
 Reading
 =======
 - [ ] *Just For Fun*
+- [ ] *THE MIDDLE PASSAGE*
 - [x] *The Inner Game of Tennis*
 - [x] *Killing Commendatore*
 - [x] *Frieren*
@@ -104,10 +105,17 @@ Daily
 - [ ] running-page
 - [ ] Push up
 
+2024-08-21
+==========
+Jing walked with me to the station.
+Our neighber recognized her when she went back home.
+I should just write and forget about grammar.
+Pick a random task when the device is shaked by the user.
+Paku will be on vacation from September 26 to September 30.
+
 2024-08-07
 ==========
 - Makuhari
-- Nothing in mind
 
 2024-07-16
 ==========
