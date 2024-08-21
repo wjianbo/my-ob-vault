@@ -2,10 +2,6 @@
 title: Linux 笔记
 date: 2022-12-20 23:57:00
 ---
-## Install
-
-- [[百度网盘]]
-
 
 ## Solutions
 

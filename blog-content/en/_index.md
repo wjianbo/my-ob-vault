@@ -11,4 +11,3 @@ Additionally, I have a passion for writing and aspire to become a writer in the 
 
 You can find me on [GitHub](https://github.com/wjianbo) or [Twitter](https://twitter.com/wjianbo).
 
-[principles](./principles)

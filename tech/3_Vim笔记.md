@@ -43,3 +43,6 @@ $ locale
 Use VIM mode within leetcode editor
 
 - Exit insert mode: `CTRL + C`
+
+`gv` 
+Running command `gv` in Normal mode will re-select the previous visual selection.
