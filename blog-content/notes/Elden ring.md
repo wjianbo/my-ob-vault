@@ -9,7 +9,7 @@
 - 游戏时间：96 小时
 - 最近两周：25.7 小时
 - 尝试到第三次打败了猎犬骑士，通关了湖旁结晶洞窟。狮子斩好用。
-- 看到一个 [level 1 通关的视频](https://youtu.be/0tmgtR98izg?si=F2-Imi3KW2ZNa80S)
+- 看到一个 [level 1 通关的视频](https://youtu.be/0tmgtR98izg?si=F2-Imi3KW2ZNa80S)，想练盾反、跳劈和跳跃躲避。
 
 ### 2024-10-10
 
