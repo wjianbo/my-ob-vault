@@ -7,5 +7,5 @@
 
 参考[这个网站](https://joelhooks.com)修改了博客模版。主要是拿掉了导航栏。如果想看之前的内容，可以通过下面的链接访问：
 
-- [Journal](journal)
-- [Blog](blog)
+- [Journal](/journal)
+- [Blog](/blog)
