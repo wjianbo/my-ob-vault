@@ -1,6 +1,7 @@
 ---
-date: 2024-10-10
 ---
+
+![艾尔登法环](https://img.3dmgame.com/uploads/images/thumbpicfirst/20210611/1623398095_526209.jpg)
 
 在此记录《艾尔登法环》的游戏进度。
 
