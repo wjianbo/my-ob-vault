@@ -1,7 +1,8 @@
 ---
 ---
 ![艾尔登法环](https://img.3dmgame.com/uploads/images/thumbpicfirst/20210611/1623398095_526209.jpg)
-在此记录《艾尔登法环》的游戏进度。
+
+在此记录《艾尔登法环》的游戏进度。主要参考[这套攻略](https://youtube.com/playlist?list=PLr-Yy6wqVYDCNc_FLyt4H9A_mZD9lknnx&si=w7Nf1wH-9r9rwBIC)。
 
 ### 2024-10-11
 
