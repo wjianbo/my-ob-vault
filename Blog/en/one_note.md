@@ -28,7 +28,7 @@ Reading
 - [ ] *THE MIDDLE PASSAGE*
 - [x] *The Inner Game of Tennis*
 - [x] *Killing Commendatore*
-- [x] *Frieren*
+- [x] *[[Frieren]]*
 
 Ideas
 =====
