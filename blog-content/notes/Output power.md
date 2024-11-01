@@ -2,7 +2,7 @@
 title: 输出力
 date: 2024-11-01
 ---
-![alt text](https://img3.doubanio.com/view/subject/l/public/s33981362.jpg)
+![封面](https://img3.doubanio.com/view/subject/s/public/s33981362.jpg)
 
 书中推荐了一种写读书感悟或者书评的方法：挑选三个佳句作为整篇书评的框架，在此基础上填充一些说明即可。在此现学现卖。
 
