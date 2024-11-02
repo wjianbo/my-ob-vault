@@ -13,7 +13,7 @@
 - 追《再见爱人第四季》
 - 日剧《狮子的藏身处》
 - 《爆笑悲剧王第三季》
-- 在读《[输出力](notes/output-power)》《家的整理》
+- 在读《[输出力](daily-write/2024-11-01-output-power)》《家的整理》
 - iOS 开发（[待办事项/购物清单 App](https://apple.co/3Mdyf4q)）
 - 准备买车
 - 打网球
