@@ -846,6 +846,13 @@ body .HyperMD-header.HyperMD-header-2::before, body .HyperMD-header.HyperMD-head
 body .HyperMD-header.HyperMD-header-1, body .HyperMD-header.HyperMD-header-2, body .HyperMD-header.HyperMD-header-3, body .HyperMD-header.HyperMD-header-4, body .HyperMD-header.HyperMD-header-5, body .HyperMD-header.HyperMD-header-6 {
   font-family: Jost, "Noto Serif SC";
 }
+body blockquote,
+body .HyperMD-quote {
+  font-family: Linden Hill, kai sc;
+}
+body .cm-formatting-quote {
+  font-family: var(--font-monospace-theme);
+}
 
 a {
   color: var(--text-normal) !important;
