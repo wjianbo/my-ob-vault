@@ -857,7 +857,6 @@ body .HyperMD-header.HyperMD-header-6::before {
 }
 body .app-container .mod-root .workspace-tab-container .view-content {
   max-width: 65ch;
-  line-height: 1.75;
 }
 
 a {
@@ -869,6 +868,8 @@ a {
 /* 在预览模式下，调整标题的样式 */
 .workspace-leaf-content[data-mode=preview] .markdown-preview-view {
   font-family: "Linden Hill", "Noto Serif SC";
+  letter-spacing: 1px;
+  line-height: 1.75;
 }
 
 /*# sourceMappingURL=my.css.map */
