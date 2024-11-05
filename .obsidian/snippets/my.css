@@ -840,20 +840,11 @@ body {
   --divider-color: #f000;
   --table-border-color: #cccc;
 }
-body .HyperMD-header.HyperMD-header-2::before {
-  content: "♪²  ";
+body .HyperMD-header.HyperMD-header-2::before, body .HyperMD-header.HyperMD-header-3::before, body .HyperMD-header.HyperMD-header-4::before, body .HyperMD-header.HyperMD-header-5::before, body .HyperMD-header.HyperMD-header-6::before {
+  content: "";
 }
-body .HyperMD-header.HyperMD-header-3::before {
-  content: "♪³  ";
-}
-body .HyperMD-header.HyperMD-header-4::before {
-  content: "♪⁴  ";
-}
-body .HyperMD-header.HyperMD-header-5::before {
-  content: "♪⁵  ";
-}
-body .HyperMD-header.HyperMD-header-6::before {
-  content: "♪⁶  ";
+body .HyperMD-header.HyperMD-header-1, body .HyperMD-header.HyperMD-header-2, body .HyperMD-header.HyperMD-header-3, body .HyperMD-header.HyperMD-header-4, body .HyperMD-header.HyperMD-header-5, body .HyperMD-header.HyperMD-header-6 {
+  font-family: Jost, "Noto Serif SC";
 }
 
 a {
@@ -877,6 +868,14 @@ a {
 .cm-scroller, .markdown-preview-view {
   padding-left: 0.5rem !important;
   padding-right: 0.5rem !important;
+}
+
+.cm-string {
+  font-family: var(--font-jk-mono);
+}
+
+.cm-active {
+  font-family: Jost, "Noto Serif SC";
 }
 
 /*# sourceMappingURL=my.css.map */
