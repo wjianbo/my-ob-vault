@@ -855,9 +855,6 @@ body .HyperMD-header.HyperMD-header-5::before {
 body .HyperMD-header.HyperMD-header-6::before {
   content: "♪⁶  ";
 }
-body .app-container .mod-root .workspace-tab-container .view-content {
-  max-width: 65ch;
-}
 
 a {
   color: var(--text-normal) !important;
@@ -876,6 +873,15 @@ a {
   font-family: "Linden Hill", "Noto Serif SC";
   letter-spacing: 1px;
   line-height: 1.75;
+}
+
+.view-content {
+  max-width: 65ch;
+}
+
+.cm-scroller {
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
 }
 
 /*# sourceMappingURL=my.css.map */
