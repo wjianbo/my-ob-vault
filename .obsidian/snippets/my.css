@@ -833,14 +833,6 @@
   src: url(https://fonts.gstatic.com/s/notoserifsc/v31/H4cyBXePl9DZ0Xe7gG9cyOj7uK2-n-D2rd4FY7SCqxWo-Y_DcSWDUUc.woff2) format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-:root {
-  --font-jk-base: "LXGW WenKai GB Screen R", jinkaiFont;
-  --font-jk-text: "LXGW WenKai GB Screen R", jinkaiFont;
-  --font-jk-mono: "Code New Roman", romanFont, "LXGW WenKai Mono";
-  --color-jk-purple: #896a9e;
-  --color-jk-purple-33: #896a9e33;
-}
-
 body {
   --font-interface-theme: var(--font-jk-base);
   --font-text-theme: var(--font-jk-text);
@@ -848,174 +840,24 @@ body {
   --divider-color: #f000;
   --table-border-color: #cccc;
 }
-body img {
-  border-radius: 4px;
+body .HyperMD-header.HyperMD-header-2::before {
+  content: "♪²  ";
 }
-body .table-wrapper {
-  width: 100% !important;
+body .HyperMD-header.HyperMD-header-3::before {
+  content: "♪³  ";
 }
-body .table-wrapper .table-editor {
-  width: 100% !important;
-  border-top: 2px solid var(--table-border-color);
+body .HyperMD-header.HyperMD-header-4::before {
+  content: "♪⁴  ";
 }
-body .table-wrapper .table-editor tbody tr:nth-child(odd) {
-  background: rgba(170, 170, 204, 0.1333333333);
+body .HyperMD-header.HyperMD-header-5::before {
+  content: "♪⁵  ";
 }
-body .cm-inline-code {
-  font-size: 14px !important;
-  color: #d63384 !important;
-  background-color: rgba(255, 255, 255, 0) !important;
-}
-body .titlebar .mod-right {
-  transition: all 0.3s linear;
-  opacity: 0;
-}
-body .titlebar .mod-right:hover {
-  opacity: 1;
-}
-body .app-container .mod-left {
-  transition: all 0.3s linear;
-  opacity: 0;
-}
-body .app-container .mod-left:hover {
-  opacity: 1;
-}
-body .app-container .mod-left-split {
-  transition: all 0.3s linear;
-  opacity: 0;
-}
-body .app-container .mod-left-split:hover {
-  opacity: 1;
-}
-body .app-container .mod-left-split .workspace-tab-header-container {
-  transition: all 0.3s linear;
-  opacity: 0;
-}
-body .app-container .mod-left-split .workspace-tab-header-container:hover {
-  opacity: 1;
-}
-body .app-container .mod-left-split .workspace-tab-container .nav-buttons-container {
-  transition: all 0.3s linear;
-  opacity: 0;
-}
-body .app-container .mod-left-split .workspace-tab-container .nav-buttons-container:hover {
-  opacity: 1;
-}
-body .app-container .mod-root .mod-top:not(.mod-stacked) .workspace-tab-header-container {
-  transition: all 0.3s linear;
-  opacity: 0;
-  margin: 0 auto;
-  padding: 0;
-  margin-bottom: 10px;
-  position: absolute;
-  z-index: 99;
-  left: 50%;
-  transform: translateX(-50%);
-  border-width: 0;
-}
-body .app-container .mod-root .mod-top:not(.mod-stacked) .workspace-tab-header-container:hover {
-  opacity: 1;
-}
-body .app-container .mod-root .mod-top:not(.mod-stacked) .workspace-tab-header-container .workspace-tab-header-container-inner {
-  padding: 0px 15px 5px;
-}
-body .app-container .mod-root .mod-top:not(.mod-stacked) .workspace-tab-header-container .sidebar-toggle-button {
-  z-index: 99;
-}
-body .app-container .mod-root .mod-top:not(.mod-stacked) .workspace-tab-header-container ::after {
-  display: none;
-}
-body .app-container .mod-root .mod-top:not(.mod-stacked) .workspace-tab-header-container .workspace-tab-header {
-  border-radius: 20px;
-  padding-top: 4px;
-  margin: 1px 1px;
-  border: 1px solid var(--color-jk-purple-33);
-}
-body .app-container .mod-root .mod-top:not(.mod-stacked) .workspace-tab-header-container .workspace-tab-header.is-active {
-  border: 1px solid var(--color-jk-purple);
-}
-body .app-container .mod-root .mod-top:not(.mod-stacked) .workspace-tab-header-container .workspace-tab-header .workspace-tab-header-inner {
-  margin: 0 4px;
-  background: transparent;
-}
-body .app-container .mod-root .mod-top:not(.mod-stacked) .workspace-tab-header-container .workspace-tab-header::before, body .app-container .mod-root .mod-top:not(.mod-stacked) .workspace-tab-header-container .workspace-tab-header::after {
-  display: none;
-}
-body .app-container .mod-root .mod-top:not(.mod-stacked) .workspace-tab-header-container .workspace-tab-header:hover {
-  background: var(--color-jk-purple-33);
-}
-body .app-container .mod-root .workspace-tab-container {
-  border-radius: 16px;
-}
-body .app-container .mod-root .workspace-tab-container .view-header {
-  transition: all 0.3s linear;
-  opacity: 0;
-}
-body .app-container .mod-root .workspace-tab-container .view-header:hover {
-  opacity: 1;
-}
-body .app-container .mod-root .workspace-tab-container .view-header .view-header-nav-buttons {
-  position: absolute;
-  left: 10px;
-  top: 10px;
-  z-index: 99;
-}
-body .app-container .mod-root .workspace-tab-container .view-header .view-header-title-container {
-  opacity: 0;
-}
-body .app-container .mod-root .workspace-tab-container .view-header .view-actions {
-  position: absolute;
-  top: 10px;
-  right: 10px;
+body .HyperMD-header.HyperMD-header-6::before {
+  content: "♪⁶  ";
 }
 body .app-container .mod-root .workspace-tab-container .view-content {
   max-width: 65ch;
-}
-body .app-container .mod-root .workspace-tab-container .view-content .metadata-container {
-  transition: all 0.2s linear;
-  margin-bottom: 28px;
-}
-body .app-container .mod-root .workspace-tab-container .view-content .metadata-container.is-collapsed {
-  height: 0;
-  padding: 0;
-}
-body .app-container .mod-root .workspace-tab-container .view-content .metadata-container .metadata-properties-heading {
-  width: 100%;
-  cursor: pointer;
-}
-body .app-container .mod-root .workspace-tab-container .view-content .metadata-container .metadata-properties-heading .metadata-properties-title {
-  opacity: 0;
-}
-body .app-container .mod-right-split {
-  transition: all 0.3s linear;
-  opacity: 0;
-}
-body .app-container .mod-right-split:hover {
-  opacity: 1;
-}
-body .app-container .mod-right-split .workspace-tab-header-container {
-  transition: all 0.3s linear;
-  opacity: 0;
-}
-body .app-container .mod-right-split .workspace-tab-header-container:hover {
-  opacity: 1;
-}
-body .app-container .mod-right-split .workspace-tab-container {
-  padding-top: 24px;
-}
-body .app-container .mod-right {
-  transition: all 0.3s linear;
-  opacity: 0;
-}
-body .app-container .mod-right:hover {
-  opacity: 1;
-}
-body .app-container .status-bar {
-  transition: all 0.3s linear;
-  opacity: 0;
-}
-body .app-container .status-bar:hover {
-  opacity: 1;
+  line-height: 1.75;
 }
 
 a {
@@ -1029,4 +871,4 @@ a {
   font-family: "Linden Hill", "Noto Serif SC";
 }
 
-/*# sourceMappingURL=theme.css.map */
+/*# sourceMappingURL=my.css.map */
