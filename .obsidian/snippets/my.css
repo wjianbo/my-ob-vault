@@ -872,4 +872,10 @@ a {
   line-height: 1.75;
 }
 
+.workspace-leaf-content[data-mode=source] .cm-contentContainer {
+  font-family: "Linden Hill", "Noto Serif SC";
+  letter-spacing: 1px;
+  line-height: 1.75;
+}
+
 /*# sourceMappingURL=my.css.map */
