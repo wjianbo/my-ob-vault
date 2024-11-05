@@ -863,12 +863,7 @@ a {
 }
 
 /* 在预览模式下，调整标题的样式 */
-.workspace-leaf-content[data-mode=preview] .markdown-preview-view {
-  font-family: "Linden Hill", "Noto Serif SC";
-  letter-spacing: 1px;
-  line-height: 1.75;
-}
-
+.workspace-leaf-content[data-mode=preview] .markdown-preview-view,
 .workspace-leaf-content[data-mode=source] .cm-contentContainer {
   font-family: "Linden Hill", "Noto Serif SC";
   letter-spacing: 1px;
@@ -879,9 +874,9 @@ a {
   max-width: 65ch;
 }
 
-.cm-scroller {
-  padding-left: 0rem !important;
-  padding-right: 0rem !important;
+.cm-scroller, .markdown-preview-view {
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
 }
 
 /*# sourceMappingURL=my.css.map */
