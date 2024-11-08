@@ -22,6 +22,10 @@
 - [微信读书笔记同步到博客](books)
 - 又又又一轮的[日更挑战](daily-write)
 
+### TODO
+
+- [做一款自己的博客主题](daily-write/2024-11-08)
+
 ### Done
 
 - 读完了《输出力》（[笔记 1](daily-write/2024-11-01-output-power)、[笔记 2](daily-write/2024-11-07)）
