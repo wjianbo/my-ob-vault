@@ -8,10 +8,11 @@
 
 ### 最近在做的事（排名不分先后）
 
-- 玩[艾尔登法环](notes/elden-ring)
+- 玩[艾尔登法环](notes/elden-ring)、数独（Good Sudoku）
 - 追漫画《葬送的芙莉莲》、《我推的孩子》
-- 追动漫《海贼王》
+- 追动漫《海贼王》、『アオのハコ』、『ダンダダン』、『チ』
 - 追《再见爱人第四季》
+- 追《白夜破晓》
 - 日剧《狮子的藏身处》
 - 《爆笑悲剧王第三季》
 - iOS 开发（[待办事项/购物清单 App](https://apple.co/3Mdyf4q)）
@@ -38,4 +39,5 @@
 ### 联系方式
 
 - Email: jianbo.one@gmail.com
-- Twiiter: [@wjianbo](https://twitter.com/wjianbo)
+- Github: [@wjianbo](https://github.com/wjianbo)
+- 𝕏: [@wjianbo](https://twitter.com/wjianbo)
