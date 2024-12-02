@@ -111,18 +111,6 @@ TODOs:
 - [ ] dorapke: payment solution
 - [x] reinwill-blog: navigation with pulldown 
 
-2024-05-07
-==========
-- [x] Air conditioner
-
-2024-05-01
-==========
-- [x] Driver's license - Apply
-
-2024-04-27
-==========
-- [x] Talk
-
 2024-04-26
 ==========
 - Meeting
@@ -138,18 +126,6 @@ Salesperson from the air conditioner store is coming for a site visit.
 - [x] Push up
 - [x] *Frieren*
 - [x] *Killing Commendatore*
- 
-2024-04-15
-==========
-TODOs:
-- [x] *Killing Commendatore*
-- [x] *Frieren*
-- [x] Push up
-- [x] dorapke: episode list view
-- [x] reinwill-blog: auto deploy 
-- [x] Solve Driver'license test Problem
-- [x] Solve Java Gold Problem
-- [x] running-page: gh-page publish
 
 2024-04-12
 ==========
