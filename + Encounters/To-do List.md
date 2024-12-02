@@ -105,19 +105,15 @@ scheduled this week
 
 ## THIS YEAR [[2023]]
 
-- [ ] [[Driver's license]]
 - [x] [[买房]]
-- [ ] [[転活]]
 - [x] [[婚礼]]
-- [ ] [[自拍婚纱照]]
-- [ ] [[Travel]]
 - [ ] 学习 Rust
 	- [ ] [[张汉东 - Rust 编程之道]]
 	 - [ ] 了解社区 [https://rust-lang-jp.zulipchat.com/#](https://rust-lang-jp.zulipchat.com/#)
 	 - [ ] [Build Your Text Editor With Rust! Part 3 | by Kofi Otuo | Medium](https://medium.com/@otukof/b030670fa815)
  - [ ] 学习操作系统知识
  - [ ] 学习 Chrome 插件开发
-- [ ] Java Gold
+- [x] Java Gold ✅ 2024-12-02
 - [ ] [Learn PWA](https://web.dev/learn/pwa/)
 
 ### Reading
@@ -152,6 +148,5 @@ scheduled this week
 ### TASKS
 
 ```tasks
-scheduled before today
 not done
 ```
