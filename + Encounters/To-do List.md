@@ -84,10 +84,8 @@ scheduled today
 
 ## THIS WEEK
 
-- [ ] 约刘老师
 - [ ] 参加读书会
 - [ ] 青空朗读
-- [x] [驾照翻译](https://jafnavi.jp/honyaku/uketuke/mail_registration.php)
 
 ```tasks
 scheduled this week
