@@ -7,7 +7,7 @@ English Journal
 Yearly Goals(2024)
 ============
 - [ ] Change job
-- [ ] Marathon(10/27)
+- [x] Marathon(10/27) ✅ 2024-12-04
 - [ ] Build a website
 - [ ] Writing
 - [ ] Guitar
@@ -56,8 +56,6 @@ Wish List
 This month
 ==========
 TODOs:
-- [ ] Print calender
-- [ ] Build a website
 
 I am excited about having the chance to create an iOS app.
 TODOs:
@@ -79,7 +77,6 @@ Shopping:
 Daily
 =====
 - [ ] Dorapke app
-- [ ] Reinwill blog
 - [ ] running-page
 - [ ] Push up
 
@@ -90,10 +87,6 @@ Our neighber recognized her when she went back home.
 I should just write and forget about grammar.
 Pick a random task when the device is shaked by the user.
 Paku will be on vacation from September 26 to September 30.
-
-2024-08-07
-==========
-- Makuhari
 
 2024-07-16
 ==========
