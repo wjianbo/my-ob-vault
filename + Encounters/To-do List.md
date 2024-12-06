@@ -78,6 +78,8 @@ top:: [[Home]]
 
 ## TODAY
 
+- [x] 约一年点检 ✅ 2024-12-06
+
 ```tasks
 scheduled today
 ```
