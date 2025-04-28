@@ -8,16 +8,15 @@
 
 ### 最近在做的事（排名不分先后）
 
-- 玩[艾尔登法环](notes/elden-ring)、数独（Good Sudoku）
 - 追漫画《葬送的芙莉莲》、《我推的孩子》
-- 追动漫《海贼王》、『アオのハコ』、『チ』
+- 追动漫《海贼王》
 - 看剧《人生切割术2》
 - 读书《写给父母的未来之书》
 - 准备买车
 - 打网球
 - 练习弹《风之诗》
 - [微信读书笔记同步到博客](books)
-- 又又又一轮的[日更挑战](daily-write)
+- [每日写作](daily-write)
 
 ### TODO
 
@@ -26,11 +25,9 @@
 ### Done
 
 
-
-
-
 ### 联系方式
 
 - Email: jianbo.one@gmail.com
 - Github: [@wjianbo](https://github.com/wjianbo)
 - 𝕏: [@wjianbo](https://twitter.com/wjianbo)
+- [Instagram](https://instagram.com/wjianbo) 
