@@ -28,6 +28,6 @@
 ### 联系方式
 
 - Email: jianbo.one@gmail.com
-- Github: [@wjianbo](https://github.com/wjianbo)
-- 𝕏: [@wjianbo](https://twitter.com/wjianbo)
+- [Github](https://github.com/wjianbo)
+- [𝕏](https://twitter.com/wjianbo)
 - [Instagram](https://instagram.com/wjianbo) 
