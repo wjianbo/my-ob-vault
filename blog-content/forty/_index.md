@@ -1,5 +1,5 @@
 ---
-sort_by: '"date"'
+sort_by: date
 ---
 # 四十不惑
 
