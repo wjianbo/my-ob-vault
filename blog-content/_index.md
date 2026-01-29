@@ -21,6 +21,4 @@ sort_by: date
 
 Email: jianbo.one@gmail.com  
 
-## 其他地方
-
 [𝕏](https://twitter.com/wjianbo) • [Telegram 频道](https://t.me/blowind) • [Instagram](https://instagram.com/wjianbo) • [跑步记录](https://wjianbo.github.io/running_page/)
