@@ -1,3 +1,6 @@
 .trash/
 Notion*
-.obsidian
+.obsidian/cache/
+.obsidian/workspace.json
+.obsidian/plugins/
+
