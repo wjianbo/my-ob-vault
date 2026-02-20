@@ -2,6 +2,8 @@
 title: 我做了一个更轻量的待办应用：Listout，想邀请你试用
 date: 2026-02-20
 tags: [listout, product, feedback]
+extra:
+  author: 王健波 with OpenClaw
 ---
 
 
