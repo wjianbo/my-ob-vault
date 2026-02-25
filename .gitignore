@@ -4,3 +4,6 @@ Notion*
 .obsidian/workspace.json
 .obsidian/plugins/
 
+.obsidian/
+.DS_Store
+.claude/
