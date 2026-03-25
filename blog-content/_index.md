@@ -10,6 +10,8 @@ sort_by: date
 
 ## 最近更新
 
+整理了一些[食谱](recipes)。
+
 <!-- POSTS -->
 
 [旧文归档](archive)
