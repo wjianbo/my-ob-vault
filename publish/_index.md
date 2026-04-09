@@ -12,6 +12,8 @@ sort_by: date
 
 整理了一些[食谱](recipes)。
 
+[[linkdown：把 wikilink 带出 Obsidian]]
+
 <!-- POSTS -->
 
 [旧文归档](archive)
