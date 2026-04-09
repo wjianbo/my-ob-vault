@@ -46,8 +46,7 @@ jobs:
       run: |
         npx github:wjianbo/linkdown#main \
           build frontmatter \
-          --out blog-content-temp \
-          --mode relative
+          --out blog-content-temp
 
     # 🟡 debug（建议保留）
     - name: Debug output
