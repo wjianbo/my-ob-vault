@@ -1,26 +1,80 @@
-name: Push File
+name: Build and Push Blog Content
 
 on:
   push:
     paths:
-      - 'blog-content/**'
+      - 'publish/**'
 
 jobs:
-  copy-file:
+  build-and-push:
     runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v2
 
-    - name: Pushes test folder
+    steps:
+    # 1️⃣ checkout
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    # 2️⃣ setup node
+    - name: Setup Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+
+    # 3️⃣ clean 所有中间目录（关键）
+    - name: Clean workspace
+      run: |
+        rm -rf blog-content-temp
+        rm -rf frontmatter
+        mkdir -p blog-content-temp
+        mkdir -p frontmatter
+
+    # 4️⃣ frontmatter
+    - name: Run linkdown frontmatter
+      run: |
+        npx github:wjianbo/linkdown#main \
+          frontmatter publish \
+          --out frontmatter
+
+    # 5️⃣ rename（作用于 frontmatter）
+    - name: Run linkdown rename
+      run: |
+        npx github:wjianbo/linkdown#main \
+          rename frontmatter --write
+
+    # 6️⃣ build
+    - name: Run linkdown build
+      run: |
+        npx github:wjianbo/linkdown#main \
+          build frontmatter \
+          --out blog-content-temp \
+          --mode relative
+
+    # 🟡 debug（建议保留）
+    - name: Debug output
+      run: |
+        echo "==== frontmatter ===="
+        ls -R frontmatter
+        echo "==== blog-content-temp ===="
+        ls -R blog-content-temp
+
+    # 🟡 unresolved check（更稳）
+    - name: Check unresolved links
+      run: |
+        if [ -f unresolved.json ] && [ -s unresolved.json ]; then
+          echo "⚠️ Unresolved links found:"
+          cat unresolved.json
+        fi
+
+    # 7️⃣ push
+    - name: Pushes folder
       uses: datalbry/copy_folder_to_another_repo_action@1.0.0
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
-        source_folder: 'blog-content'
+        source_folder: 'blog-content-temp'
         destination_repo: 'wjianbo/wjianbo.github.io'
         destination_branch: 'master'
         destination_folder: 'content'
         user_email: 'jnb.wang@gmail.com'
         user_name: 'wjianbo'
-        commit_msg: '[GHA] Update blog contents.'
+        commit_msg: '[GHA] Update blog contents (processed by linkdown)'
