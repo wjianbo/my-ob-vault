@@ -28,19 +28,6 @@ jobs:
         mkdir -p blog-content-temp
         mkdir -p frontmatter
 
-    # 4️⃣ frontmatter
-    - name: Run linkdown frontmatter
-      run: |
-        npx github:wjianbo/linkdown#main \
-          frontmatter publish \
-          --out frontmatter
-
-    # 5️⃣ rename（作用于 frontmatter）
-    - name: Run linkdown rename
-      run: |
-        npx github:wjianbo/linkdown#main \
-          rename frontmatter --write
-
     # 6️⃣ build
     - name: Run linkdown build
       run: |
