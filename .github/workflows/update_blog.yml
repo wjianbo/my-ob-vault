@@ -32,7 +32,7 @@ jobs:
     - name: Run linkdown build
       run: |
         npx github:wjianbo/linkdown#main \
-          build frontmatter \
+          build publish \
           --out blog-content-temp
 
     # 🟡 debug（建议保留）
