@@ -1,7 +1,6 @@
 +++
 title = "Life Note"
 description = "A lightweight life log app for everyday moments."
-template = "project.html"
 +++
 
 # Life Note
