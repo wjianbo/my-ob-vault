@@ -10,6 +10,7 @@ sort_by: date
 
 ## 最近更新
 
+- [[做了一个记录 app]]
 - 给 [2025](archive/2025) 年的日记搬了家。
 - [[linkdown：把 wikilink 带出 Obsidian]]
 - 整理了一些[食谱](recipes)。
