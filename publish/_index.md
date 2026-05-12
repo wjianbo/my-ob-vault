@@ -6,18 +6,22 @@ sort_by: date
 ---
 你好啊👋
 
-欢迎。
+我是王健波。这里记录日常、阅读、跑步、做 app，以及一些生活里的小工具。
 
-## 最近更新
-
-- [[做了一个记录 app]]
-- 给 [2025](archive/2025) 年的日记搬了家。
-- [[linkdown：把 wikilink 带出 Obsidian]]
-- 整理了一些[食谱](recipes)。
+## 最近写的
 
 <!-- POSTS -->
 
-[旧文归档](archive)
+## 入口
+
+- [[life note：一个简单的每日记录 app|life note：一个简单的每日记录 app]]
+- [[linkdown：把 wikilink 带出 Obsidian]]
+- [食谱](recipes)
+- [旧文归档](archive)
+
+## 近况
+
+- 给 [2025](archive/2025) 年的日记搬了家。
 
 ## 联系方式
 
