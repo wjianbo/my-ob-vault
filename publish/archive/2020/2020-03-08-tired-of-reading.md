@@ -2,7 +2,7 @@
 title: 读书真累
 date: 2020-03-08
 ---
-最近开始读《理想国》。在微信读书上选了阅读人数最多的译本。结果读得很累。尽管如此，我还是硬着头皮读完了前四章，而没有想到换个译本。大概是隔离在家把脑子隔伤了吧。
+最近开始读《理想国》。在微信读书上选了阅读人数最多的译本。结果读得很累。尽管如此，我还是硬着头皮读完了前四章，而没有想到换个译本。大概是隔离在家把脑子隔伤了吧。
 
 为什么觉得累呢？举个例子，读到这样一段：
 
@@ -19,7 +19,7 @@ What do you mean?
 I mean such things as these—when the young are to be silent before their elders; how they are to show respect to them by standing and making them sit; what honour is due to parents; what garments or shoes are to be worn; the mode of dressing the hair; deportment and manners in general. 
 You would agree with me?  
 Yes.  
-But there is, I think, small wisdom in legislating about such matters,—I doubt if it is ever done; nor are any precise written enactments about them likely to be lasting.
+But there is, I think, small wisdom in legislating about such matters,—I doubt if it is ever done; nor are any precise written enactments about them likely to be lasting.
 
 结合英文版改译如下：
 
