@@ -10,7 +10,7 @@ sort_by: date
 
 新博客地址：
 
-https://jianbo.jant.blog/
+[https://jianbo.jant.blog/](https://jianbo.jant.blog/)
 
 ## 最近写的
 
